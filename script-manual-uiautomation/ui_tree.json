@@ -1,0 +1,2596 @@
+[
+  {
+    "clicked_element": {
+      "Name": "Fechar Navegação",
+      "AutomationId": "TogglePaneButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(206,243,246,279)[40x36]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/ButtonControl[@Name='Fechar Navegação']",
+      "Children": [
+        {
+          "Name": "",
+          "AutomationId": "PaneTitleTextBlock",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(0,0,0,0)[0x0]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/ButtonControl[@Name='Fechar Navegação']/TextControl[@AutomationId='PaneTitleTextBlock']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Científica Calculadora",
+      "AutomationId": "Scientific",
+      "ControlType": "ListItemControl",
+      "ClassName": "Microsoft.UI.Xaml.Controls.NavigationViewItem",
+      "BoundingRectangle": "(0,0,0,0)[0x0]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/WindowControl[@AutomationId='PaneRoot']/PaneControl[@AutomationId='MenuItemsScrollViewer']/GroupControl[@AutomationId='MenuItemsHost']/ListItemControl[@Name='Científica Calculadora']",
+      "Children": [
+        {
+          "Name": "",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(218,373,234,389)[16x16]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/WindowControl[@AutomationId='PaneRoot']/PaneControl[@AutomationId='MenuItemsScrollViewer']/GroupControl[@AutomationId='MenuItemsHost']/ListItemControl[@Name='Científica Calculadora']/TextControl[@Name='']",
+          "Children": []
+        },
+        {
+          "Name": "Científica",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(250,372,307,391)[57x19]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/WindowControl[@AutomationId='PaneRoot']/PaneControl[@AutomationId='MenuItemsScrollViewer']/GroupControl[@AutomationId='MenuItemsHost']/ListItemControl[@Name='Científica Calculadora']/TextControl[@Name='Científica']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Trigonometria",
+      "AutomationId": "",
+      "ControlType": "TextControl",
+      "ClassName": "TextBlock",
+      "BoundingRectangle": "(238,501,313,517)[75x16]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ListControl[@Name='Painéis de operação científica']/ListItemControl[@Name='Trigonometria']/ButtonControl[@Name='Trigonometria']/TextControl[@Name='Trigonometria']",
+      "Children": []
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Função inversa",
+      "AutomationId": "trigShiftButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "ToggleButton",
+      "BoundingRectangle": "(210,532,273,578)[63x46]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Popup']/PaneControl[@AutomationId='Trigflyout']/PaneControl[@AutomationId='ScrollViewer']/ButtonControl[@Name='Função inversa']",
+      "Children": [
+        {
+          "Name": "",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(234,548,249,562)[15x14]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Popup']/PaneControl[@AutomationId='Trigflyout']/PaneControl[@AutomationId='ScrollViewer']/ButtonControl[@Name='Função inversa']/TextControl[@Name='']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Arco seno",
+      "AutomationId": "invsinButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(275,532,337,578)[62x46]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Popup']/PaneControl[@AutomationId='Trigflyout']/PaneControl[@AutomationId='ScrollViewer']/ButtonControl[@Name='Arco seno']",
+      "Children": [
+        {
+          "Name": "sin⁻¹",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(294,547,318,563)[24x16]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Popup']/PaneControl[@AutomationId='Trigflyout']/PaneControl[@AutomationId='ScrollViewer']/ButtonControl[@Name='Arco seno']/TextControl[@Name='sin⁻¹']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Seno",
+      "AutomationId": "sinButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(275,532,337,578)[62x46]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Popup']/PaneControl[@AutomationId='Trigflyout']/PaneControl[@AutomationId='ScrollViewer']/ButtonControl[@Name='Seno']",
+      "Children": [
+        {
+          "Name": "sin",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(299,547,314,563)[15x16]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Popup']/PaneControl[@AutomationId='Trigflyout']/PaneControl[@AutomationId='ScrollViewer']/ButtonControl[@Name='Seno']/TextControl[@Name='sin']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Trigonometria",
+      "AutomationId": "trigButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "ToggleButton",
+      "BoundingRectangle": "(206,491,341,527)[135x36]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ListControl[@Name='Painéis de operação científica']/ListItemControl[@Name='Trigonometria']/ButtonControl[@Name='Trigonometria']",
+      "Children": [
+        {
+          "Name": "",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(214,502,230,518)[16x16]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ListControl[@Name='Painéis de operação científica']/ListItemControl[@Name='Trigonometria']/ButtonControl[@Name='Trigonometria']/TextControl[@Name='']",
+          "Children": []
+        },
+        {
+          "Name": "Trigonometria",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(238,501,313,517)[75x16]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ListControl[@Name='Painéis de operação científica']/ListItemControl[@Name='Trigonometria']/ButtonControl[@Name='Trigonometria']/TextControl[@Name='Trigonometria']",
+          "Children": []
+        },
+        {
+          "Name": "",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(321,505,333,517)[12x12]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ListControl[@Name='Painéis de operação científica']/ListItemControl[@Name='Trigonometria']/ButtonControl[@Name='Trigonometria']/TextControl[@Name='']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Cosseno",
+      "AutomationId": "cosButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(0,0,0,0)[0x0]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/PaneControl[@AutomationId='Trigflyout']/PaneControl[@AutomationId='ScrollViewer']/ButtonControl[@Name='Cosseno']",
+      "Children": [
+        {
+          "Name": "cos",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(362,547,380,563)[18x16]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Popup']/PaneControl[@AutomationId='Trigflyout']/PaneControl[@AutomationId='ScrollViewer']/ButtonControl[@Name='Cosseno']/TextControl[@Name='cos']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Função hiperbólica",
+      "AutomationId": "hypShiftButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "ToggleButton",
+      "BoundingRectangle": "(210,580,273,626)[63x46]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Popup']/PaneControl[@AutomationId='Trigflyout']/PaneControl[@AutomationId='ScrollViewer']/ButtonControl[@Name='Função hiperbólica']",
+      "Children": [
+        {
+          "Name": "hyp",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(232,595,252,611)[20x16]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Popup']/PaneControl[@AutomationId='Trigflyout']/PaneControl[@AutomationId='ScrollViewer']/ButtonControl[@Name='Função hiperbólica']/TextControl[@Name='hyp']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Secante hiperbólica",
+      "AutomationId": "sechButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(0,0,0,0)[0x0]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/PaneControl[@AutomationId='Trigflyout']/PaneControl[@AutomationId='ScrollViewer']/ButtonControl[@Name='Secante hiperbólica']",
+      "Children": [
+        {
+          "Name": "sech",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(0,0,0,0)[0x0]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/PaneControl[@AutomationId='Trigflyout']/PaneControl[@AutomationId='ScrollViewer']/ButtonControl[@Name='Secante hiperbólica']/TextControl[@Name='sech']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Cossecante",
+      "AutomationId": "cscButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(0,0,0,0)[0x0]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/PaneControl[@AutomationId='Trigflyout']/PaneControl[@AutomationId='ScrollViewer']/ButtonControl[@Name='Cossecante']",
+      "Children": [
+        {
+          "Name": "csc",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(0,0,0,0)[0x0]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/PaneControl[@AutomationId='Trigflyout']/PaneControl[@AutomationId='ScrollViewer']/ButtonControl[@Name='Cossecante']/TextControl[@Name='csc']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Cotangente",
+      "AutomationId": "cotButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(404,580,466,626)[62x46]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Popup']/PaneControl[@AutomationId='Trigflyout']/PaneControl[@AutomationId='ScrollViewer']/ButtonControl[@Name='Cotangente']",
+      "Children": [
+        {
+          "Name": "cot",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(427,595,444,611)[17x16]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Popup']/PaneControl[@AutomationId='Trigflyout']/PaneControl[@AutomationId='ScrollViewer']/ButtonControl[@Name='Cotangente']/TextControl[@Name='cot']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Funções",
+      "AutomationId": "funcButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "ToggleButton",
+      "BoundingRectangle": "(343,491,442,527)[99x36]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ListControl[@Name='Painéis de operação científica']/ListItemControl[@Name='Funções']/ButtonControl[@Name='Funções']",
+      "Children": [
+        {
+          "Name": "",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(351,502,367,518)[16x16]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ListControl[@Name='Painéis de operação científica']/ListItemControl[@Name='Funções']/ButtonControl[@Name='Funções']/TextControl[@Name='']",
+          "Children": []
+        },
+        {
+          "Name": "Função",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(375,501,414,517)[39x16]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ListControl[@Name='Painéis de operação científica']/ListItemControl[@Name='Funções']/ButtonControl[@Name='Funções']/TextControl[@Name='Função']",
+          "Children": []
+        },
+        {
+          "Name": "",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(422,505,434,517)[12x12]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ListControl[@Name='Painéis de operação científica']/ListItemControl[@Name='Funções']/ButtonControl[@Name='Funções']/TextControl[@Name='']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Valor absoluto",
+      "AutomationId": "absButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(0,0,0,0)[0x0]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/PaneControl[@AutomationId='FuncFlyout']/PaneControl[@AutomationId='ScrollViewer']/ButtonControl[@Name='Valor absoluto']",
+      "Children": [
+        {
+          "Name": "",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(0,0,0,0)[0x0]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/PaneControl[@AutomationId='FuncFlyout']/PaneControl[@AutomationId='ScrollViewer']/ButtonControl[@Name='Valor absoluto']/TextControl[@Name='']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Função",
+      "AutomationId": "",
+      "ControlType": "TextControl",
+      "ClassName": "TextBlock",
+      "BoundingRectangle": "(375,501,414,517)[39x16]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ListControl[@Name='Painéis de operação científica']/ListItemControl[@Name='Funções']/ButtonControl[@Name='Funções']/TextControl[@Name='Função']",
+      "Children": []
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Piso",
+      "AutomationId": "floorButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(0,0,0,0)[0x0]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/PaneControl[@AutomationId='FuncFlyout']/PaneControl[@AutomationId='ScrollViewer']/ButtonControl[@Name='Piso']",
+      "Children": [
+        {
+          "Name": "",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(386,547,402,563)[16x16]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Popup']/PaneControl[@AutomationId='FuncFlyout']/PaneControl[@AutomationId='ScrollViewer']/ButtonControl[@Name='Piso']/TextControl[@Name='']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Teto",
+      "AutomationId": "ceilButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(0,0,0,0)[0x0]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/PaneControl[@AutomationId='FuncFlyout']/PaneControl[@AutomationId='ScrollViewer']/ButtonControl[@Name='Teto']",
+      "Children": [
+        {
+          "Name": "",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(0,0,0,0)[0x0]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/PaneControl[@AutomationId='FuncFlyout']/PaneControl[@AutomationId='ScrollViewer']/ButtonControl[@Name='Teto']/TextControl[@Name='']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Aleatório",
+      "AutomationId": "randButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(0,0,0,0)[0x0]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/PaneControl[@AutomationId='FuncFlyout']/PaneControl[@AutomationId='ScrollViewer']/ButtonControl[@Name='Aleatório']",
+      "Children": [
+        {
+          "Name": "rand",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(316,595,341,611)[25x16]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/PaneControl[@AutomationId='FuncFlyout']/PaneControl[@AutomationId='ScrollViewer']/ButtonControl[@Name='Aleatório']/TextControl[@Name='rand']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Grau minuto segundo",
+      "AutomationId": "dmsButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(362,580,425,626)[63x46]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Popup']/PaneControl[@AutomationId='FuncFlyout']/PaneControl[@AutomationId='ScrollViewer']/ButtonControl[@Name='Grau minuto segundo']",
+      "Children": [
+        {
+          "Name": "",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(378,595,409,611)[31x16]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Popup']/PaneControl[@AutomationId='FuncFlyout']/PaneControl[@AutomationId='ScrollViewer']/ButtonControl[@Name='Grau minuto segundo']/TextControl[@Name='']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Graus",
+      "AutomationId": "degreesButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(0,0,0,0)[0x0]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/PaneControl[@AutomationId='FuncFlyout']/PaneControl[@AutomationId='ScrollViewer']/ButtonControl[@Name='Graus']",
+      "Children": [
+        {
+          "Name": "",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(0,0,0,0)[0x0]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/PaneControl[@AutomationId='FuncFlyout']/PaneControl[@AutomationId='ScrollViewer']/ButtonControl[@Name='Graus']/TextControl[@Name='']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Função inversa",
+      "AutomationId": "shiftButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "ToggleButton",
+      "BoundingRectangle": "(206,529,276,570)[70x41]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Função inversa']",
+      "Children": [
+        {
+          "Name": "",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(234,543,249,557)[15x14]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Função inversa']/TextControl[@Name='']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Pi",
+      "AutomationId": "piButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(278,529,349,570)[71x41]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Pi']",
+      "Children": [
+        {
+          "Name": "",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(307,543,321,557)[14x14]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Pi']/TextControl[@Name='']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Número de Euler",
+      "AutomationId": "eulerButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(351,529,421,570)[70x41]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Número de Euler']",
+      "Children": [
+        {
+          "Name": "e",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(382,540,390,559)[8x19]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Número de Euler']/TextControl[@Name='e']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Backspace",
+      "AutomationId": "backSpaceButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(496,529,566,570)[70x41]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Controles de exibição']/ButtonControl[@Name='Backspace']",
+      "Children": [
+        {
+          "Name": "",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(524,543,538,557)[14x14]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Controles de exibição']/ButtonControl[@Name='Backspace']/TextControl[@Name='']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Exponencial",
+      "AutomationId": "expButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(423,572,494,613)[71x41]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Exponencial']",
+      "Children": [
+        {
+          "Name": "exp",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(448,583,470,602)[22x19]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Exponencial']/TextControl[@Name='exp']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Valor absoluto",
+      "AutomationId": "absButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(351,572,421,613)[70x41]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Valor absoluto']",
+      "Children": [
+        {
+          "Name": "",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(379,586,393,600)[14x14]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Valor absoluto']/TextControl[@Name='']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Recíproco",
+      "AutomationId": "invertButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(278,572,349,613)[71x41]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Recíproco']",
+      "Children": [
+        {
+          "Name": "",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(307,586,321,600)[14x14]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Recíproco']/TextControl[@Name='']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Quadrado",
+      "AutomationId": "xpower2Button",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(206,572,276,613)[70x41]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Funções científicas']/ButtonControl[@Name='Quadrado']",
+      "Children": [
+        {
+          "Name": "",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(234,586,248,600)[14x14]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Funções científicas']/ButtonControl[@Name='Quadrado']/TextControl[@Name='']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Raiz quadrada",
+      "AutomationId": "squareRootButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(206,615,276,656)[70x41]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Funções científicas']/ButtonControl[@Name='Raiz quadrada']",
+      "Children": [
+        {
+          "Name": "",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(233,629,249,643)[16x14]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Funções científicas']/ButtonControl[@Name='Raiz quadrada']/TextControl[@Name='']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Parêntese esquerdo",
+      "AutomationId": "openParenthesisButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(278,615,349,656)[71x41]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Parêntese esquerdo']",
+      "Children": [
+        {
+          "Name": "(",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(311,626,316,645)[5x19]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Parêntese esquerdo']/TextControl[@Name='(']",
+          "Children": []
+        },
+        {
+          "Name": "",
+          "AutomationId": "ParenthesisCount",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(0,0,0,0)[0x0]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Parêntese esquerdo']/TextControl[@AutomationId='ParenthesisCount']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Parêntese direito",
+      "AutomationId": "closeParenthesisButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(351,615,421,656)[70x41]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Parêntese direito']",
+      "Children": [
+        {
+          "Name": ")",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(384,626,389,645)[5x19]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Parêntese direito']/TextControl[@Name=')']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Dividir por",
+      "AutomationId": "divideButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(496,615,566,656)[70x41]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Operadores padrão']/ButtonControl[@Name='Dividir por']",
+      "Children": [
+        {
+          "Name": "",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(524,629,538,643)[14x14]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Operadores padrão']/ButtonControl[@Name='Dividir por']/TextControl[@Name='']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Multiplicar por",
+      "AutomationId": "multiplyButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(496,658,566,699)[70x41]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Operadores padrão']/ButtonControl[@Name='Multiplicar por']",
+      "Children": [
+        {
+          "Name": "",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(524,672,538,686)[14x14]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Operadores padrão']/ButtonControl[@Name='Multiplicar por']/TextControl[@Name='']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Nove",
+      "AutomationId": "num9Button",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(424,658,494,699)[70x41]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Nove']",
+      "Children": [
+        {
+          "Name": "9",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(454,667,464,691)[10x24]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Nove']/TextControl[@Name='9']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Oito",
+      "AutomationId": "num8Button",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(351,658,422,699)[71x41]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Oito']",
+      "Children": [
+        {
+          "Name": "8",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(382,667,392,691)[10x24]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Oito']/TextControl[@Name='8']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Sete",
+      "AutomationId": "num7Button",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(278,658,349,699)[71x41]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Sete']",
+      "Children": [
+        {
+          "Name": "7",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(309,667,319,691)[10x24]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Sete']/TextControl[@Name='7']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Potência de “X”",
+      "AutomationId": "powerButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(206,658,276,699)[70x41]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Funções científicas']/ButtonControl[@Name='Potência de “X”']",
+      "Children": [
+        {
+          "Name": "",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(234,672,248,686)[14x14]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Funções científicas']/ButtonControl[@Name='Potência de “X”']/TextControl[@Name='']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Potência de dez",
+      "AutomationId": "powerOf10Button",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(206,701,276,742)[70x41]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Funções científicas']/ButtonControl[@Name='Potência de dez']",
+      "Children": [
+        {
+          "Name": "",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(232,715,250,729)[18x14]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Funções científicas']/ButtonControl[@Name='Potência de dez']/TextControl[@Name='']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Quatro",
+      "AutomationId": "num4Button",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(278,701,349,742)[71x41]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Quatro']",
+      "Children": [
+        {
+          "Name": "4",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(309,710,319,734)[10x24]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Quatro']/TextControl[@Name='4']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Cinco",
+      "AutomationId": "num5Button",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(351,701,422,742)[71x41]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Cinco']",
+      "Children": [
+        {
+          "Name": "5",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(382,710,392,734)[10x24]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Cinco']/TextControl[@Name='5']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Seis",
+      "AutomationId": "num6Button",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(424,701,494,742)[70x41]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Seis']",
+      "Children": [
+        {
+          "Name": "6",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(454,710,464,734)[10x24]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Seis']/TextControl[@Name='6']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Menos",
+      "AutomationId": "minusButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(496,701,566,742)[70x41]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Operadores padrão']/ButtonControl[@Name='Menos']",
+      "Children": [
+        {
+          "Name": "",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(524,715,538,729)[14x14]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Operadores padrão']/ButtonControl[@Name='Menos']/TextControl[@Name='']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Mais",
+      "AutomationId": "plusButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(496,744,566,785)[70x41]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Operadores padrão']/ButtonControl[@Name='Mais']",
+      "Children": [
+        {
+          "Name": "",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(524,758,538,772)[14x14]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Operadores padrão']/ButtonControl[@Name='Mais']/TextControl[@Name='']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Três",
+      "AutomationId": "num3Button",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(424,744,494,785)[70x41]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Três']",
+      "Children": [
+        {
+          "Name": "3",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(454,753,464,777)[10x24]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Três']/TextControl[@Name='3']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Dois",
+      "AutomationId": "num2Button",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(351,744,422,785)[71x41]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Dois']",
+      "Children": [
+        {
+          "Name": "2",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(382,753,392,777)[10x24]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Dois']/TextControl[@Name='2']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Log",
+      "AutomationId": "logBase10Button",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(206,744,276,785)[70x41]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Funções científicas']/ButtonControl[@Name='Log']",
+      "Children": [
+        {
+          "Name": "log",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(231,755,251,774)[20x19]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Funções científicas']/ButtonControl[@Name='Log']/TextControl[@Name='log']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Logaritmo natural",
+      "AutomationId": "logBaseEButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(206,787,276,828)[70x41]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Funções científicas']/ButtonControl[@Name='Logaritmo natural']",
+      "Children": [
+        {
+          "Name": "ln",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(235,798,247,817)[12x19]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Funções científicas']/ButtonControl[@Name='Logaritmo natural']/TextControl[@Name='ln']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Positivo negativo",
+      "AutomationId": "negateButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(278,787,349,828)[71x41]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Positivo negativo']",
+      "Children": [
+        {
+          "Name": "",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(306,801,322,815)[16x14]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Positivo negativo']/TextControl[@Name='']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Zero",
+      "AutomationId": "num0Button",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(351,787,422,828)[71x41]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Zero']",
+      "Children": [
+        {
+          "Name": "0",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(382,796,392,820)[10x24]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Zero']/TextControl[@Name='0']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Separador decimal",
+      "AutomationId": "decimalSeparatorButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(424,787,494,828)[70x41]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Separador decimal']",
+      "Children": [
+        {
+          "Name": ",",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(457,796,461,820)[4x24]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Separador decimal']/TextControl[@Name=',']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Igual a",
+      "AutomationId": "equalButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(496,787,566,828)[70x41]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Operadores padrão']/ButtonControl[@Name='Igual a']",
+      "Children": [
+        {
+          "Name": "",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(524,801,538,815)[14x14]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Operadores padrão']/ButtonControl[@Name='Igual a']/TextControl[@Name='']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "",
+      "AutomationId": "NavView",
+      "ControlType": "CustomControl",
+      "ClassName": "",
+      "BoundingRectangle": "(202,234,846,832)[644x598]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']",
+      "Children": [
+        {
+          "Name": "Abrir Navegação",
+          "AutomationId": "TogglePaneButton",
+          "ControlType": "ButtonControl",
+          "ClassName": "Button",
+          "BoundingRectangle": "(206,243,246,279)[40x36]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/ButtonControl[@Name='Abrir Navegação']",
+          "Children": [
+            {
+              "Name": "",
+              "AutomationId": "PaneTitleTextBlock",
+              "ControlType": "TextControl",
+              "ClassName": "TextBlock",
+              "BoundingRectangle": "(0,0,0,0)[0x0]",
+              "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/ButtonControl[@Name='Abrir Navegação']/TextControl[@AutomationId='PaneTitleTextBlock']",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Name": "",
+          "AutomationId": "",
+          "ControlType": "GroupControl",
+          "ClassName": "LandmarkTarget",
+          "BoundingRectangle": "(202,234,846,832)[644x598]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl",
+          "Children": [
+            {
+              "Name": "Expression é ",
+              "AutomationId": "CalculatorExpression",
+              "ControlType": "TextControl",
+              "ClassName": "",
+              "BoundingRectangle": "(0,0,0,0)[0x0]",
+              "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/TextControl[@Name='Expression é ']",
+              "Children": []
+            },
+            {
+              "Name": "A exibição é -0,015",
+              "AutomationId": "CalculatorResults",
+              "ControlType": "TextControl",
+              "ClassName": "",
+              "BoundingRectangle": "(202,313,570,404)[368x91]",
+              "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/TextControl[@Name='A exibição é -0,015']",
+              "Children": [
+                {
+                  "Name": "-0,015",
+                  "AutomationId": "TextContainer",
+                  "ControlType": "PaneControl",
+                  "ClassName": "ScrollViewer",
+                  "BoundingRectangle": "(214,313,558,404)[344x91]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/TextControl[@Name='A exibição é -0,015']/PaneControl[@Name='-0,015']",
+                  "Children": [
+                    {
+                      "Name": "-0,015",
+                      "AutomationId": "NormalOutput",
+                      "ControlType": "TextControl",
+                      "ClassName": "TextBlock",
+                      "BoundingRectangle": "(433,313,558,375)[125x62]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/TextControl[@Name='A exibição é -0,015']/PaneControl[@Name='-0,015']/TextControl[@Name='-0,015']",
+                      "Children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Name": "Operadores de ângulo",
+              "AutomationId": "ScientificAngleOperators",
+              "ControlType": "GroupControl",
+              "ClassName": "NamedContainerAutomationPeer",
+              "BoundingRectangle": "(206,405,324,443)[118x38]",
+              "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Operadores de ângulo']",
+              "Children": [
+                {
+                  "Name": "Alternância de graus",
+                  "AutomationId": "degButton",
+                  "ControlType": "ButtonControl",
+                  "ClassName": "Button",
+                  "BoundingRectangle": "(206,405,264,443)[58x38]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Operadores de ângulo']/ButtonControl[@Name='Alternância de graus']",
+                  "Children": [
+                    {
+                      "Name": "DEG",
+                      "AutomationId": "",
+                      "ControlType": "TextControl",
+                      "ClassName": "TextBlock",
+                      "BoundingRectangle": "(223,415,248,433)[25x18]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Operadores de ângulo']/ButtonControl[@Name='Alternância de graus']/TextControl[@Name='DEG']",
+                      "Children": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "Notação científica",
+                  "AutomationId": "ftoeButton",
+                  "ControlType": "ButtonControl",
+                  "ClassName": "ToggleButton",
+                  "BoundingRectangle": "(266,405,324,443)[58x38]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Operadores de ângulo']/ButtonControl[@Name='Notação científica']",
+                  "Children": [
+                    {
+                      "Name": "F-E",
+                      "AutomationId": "",
+                      "ControlType": "TextControl",
+                      "ClassName": "TextBlock",
+                      "BoundingRectangle": "(286,415,305,433)[19x18]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Operadores de ângulo']/ButtonControl[@Name='Notação científica']/TextControl[@Name='F-E']",
+                      "Children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Name": "Controles de memória",
+              "AutomationId": "MemoryPanel",
+              "ControlType": "GroupControl",
+              "ClassName": "NamedContainerAutomationPeer",
+              "BoundingRectangle": "(206,445,565,483)[359x38]",
+              "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Controles de memória']",
+              "Children": [
+                {
+                  "Name": "Limpar toda a memória",
+                  "AutomationId": "ClearMemoryButton",
+                  "ControlType": "ButtonControl",
+                  "ClassName": "Button",
+                  "BoundingRectangle": "(206,445,276,483)[70x38]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Controles de memória']/ButtonControl[@Name='Limpar toda a memória']",
+                  "Children": [
+                    {
+                      "Name": "",
+                      "AutomationId": "",
+                      "ControlType": "TextControl",
+                      "ClassName": "TextBlock",
+                      "BoundingRectangle": "(232,456,250,472)[18x16]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Controles de memória']/ButtonControl[@Name='Limpar toda a memória']/TextControl[@Name='']",
+                      "Children": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "Rechamada de memória",
+                  "AutomationId": "MemRecall",
+                  "ControlType": "ButtonControl",
+                  "ClassName": "Button",
+                  "BoundingRectangle": "(278,445,348,483)[70x38]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Controles de memória']/ButtonControl[@Name='Rechamada de memória']",
+                  "Children": [
+                    {
+                      "Name": "",
+                      "AutomationId": "",
+                      "ControlType": "TextControl",
+                      "ClassName": "TextBlock",
+                      "BoundingRectangle": "(304,456,322,472)[18x16]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Controles de memória']/ButtonControl[@Name='Rechamada de memória']/TextControl[@Name='']",
+                      "Children": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "Adição de memória",
+                  "AutomationId": "MemPlus",
+                  "ControlType": "ButtonControl",
+                  "ClassName": "Button",
+                  "BoundingRectangle": "(350,445,420,483)[70x38]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Controles de memória']/ButtonControl[@Name='Adição de memória']",
+                  "Children": [
+                    {
+                      "Name": "",
+                      "AutomationId": "",
+                      "ControlType": "TextControl",
+                      "ClassName": "TextBlock",
+                      "BoundingRectangle": "(376,456,394,472)[18x16]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Controles de memória']/ButtonControl[@Name='Adição de memória']/TextControl[@Name='']",
+                      "Children": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "Subtração de memória",
+                  "AutomationId": "MemMinus",
+                  "ControlType": "ButtonControl",
+                  "ClassName": "Button",
+                  "BoundingRectangle": "(422,445,493,483)[71x38]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Controles de memória']/ButtonControl[@Name='Subtração de memória']",
+                  "Children": [
+                    {
+                      "Name": "",
+                      "AutomationId": "",
+                      "ControlType": "TextControl",
+                      "ClassName": "TextBlock",
+                      "BoundingRectangle": "(449,456,467,472)[18x16]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Controles de memória']/ButtonControl[@Name='Subtração de memória']/TextControl[@Name='']",
+                      "Children": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "Armazenamento de memória",
+                  "AutomationId": "memButton",
+                  "ControlType": "ButtonControl",
+                  "ClassName": "Button",
+                  "BoundingRectangle": "(495,445,565,483)[70x38]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Controles de memória']/ButtonControl[@Name='Armazenamento de memória']",
+                  "Children": [
+                    {
+                      "Name": "",
+                      "AutomationId": "",
+                      "ControlType": "TextControl",
+                      "ClassName": "TextBlock",
+                      "BoundingRectangle": "(521,456,539,472)[18x16]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Controles de memória']/ButtonControl[@Name='Armazenamento de memória']/TextControl[@Name='']",
+                      "Children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Name": "Painéis de operação científica",
+              "AutomationId": "",
+              "ControlType": "ListControl",
+              "ClassName": "ListView",
+              "BoundingRectangle": "(202,488,570,528)[368x40]",
+              "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ListControl[@Name='Painéis de operação científica']",
+              "Children": [
+                {
+                  "Name": "Trigonometria",
+                  "AutomationId": "",
+                  "ControlType": "ListItemControl",
+                  "ClassName": "ListViewItem",
+                  "BoundingRectangle": "(205,490,342,528)[137x38]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ListControl[@Name='Painéis de operação científica']/ListItemControl[@Name='Trigonometria']",
+                  "Children": [
+                    {
+                      "Name": "Trigonometria",
+                      "AutomationId": "trigButton",
+                      "ControlType": "ButtonControl",
+                      "ClassName": "ToggleButton",
+                      "BoundingRectangle": "(206,491,341,527)[135x36]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ListControl[@Name='Painéis de operação científica']/ListItemControl[@Name='Trigonometria']/ButtonControl[@Name='Trigonometria']",
+                      "Children": [
+                        {
+                          "Name": "",
+                          "AutomationId": "",
+                          "ControlType": "TextControl",
+                          "ClassName": "TextBlock",
+                          "BoundingRectangle": "(214,502,230,518)[16x16]",
+                          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ListControl[@Name='Painéis de operação científica']/ListItemControl[@Name='Trigonometria']/ButtonControl[@Name='Trigonometria']/TextControl[@Name='']",
+                          "Children": []
+                        },
+                        {
+                          "Name": "Trigonometria",
+                          "AutomationId": "",
+                          "ControlType": "TextControl",
+                          "ClassName": "TextBlock",
+                          "BoundingRectangle": "(238,501,313,517)[75x16]",
+                          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ListControl[@Name='Painéis de operação científica']/ListItemControl[@Name='Trigonometria']/ButtonControl[@Name='Trigonometria']/TextControl[@Name='Trigonometria']",
+                          "Children": []
+                        },
+                        {
+                          "Name": "",
+                          "AutomationId": "",
+                          "ControlType": "TextControl",
+                          "ClassName": "TextBlock",
+                          "BoundingRectangle": "(321,505,333,517)[12x12]",
+                          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ListControl[@Name='Painéis de operação científica']/ListItemControl[@Name='Trigonometria']/ButtonControl[@Name='Trigonometria']/TextControl[@Name='']",
+                          "Children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "Name": "Funções",
+                  "AutomationId": "",
+                  "ControlType": "ListItemControl",
+                  "ClassName": "ListViewItem",
+                  "BoundingRectangle": "(342,490,443,528)[101x38]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ListControl[@Name='Painéis de operação científica']/ListItemControl[@Name='Funções']",
+                  "Children": [
+                    {
+                      "Name": "Funções",
+                      "AutomationId": "funcButton",
+                      "ControlType": "ButtonControl",
+                      "ClassName": "ToggleButton",
+                      "BoundingRectangle": "(343,491,442,527)[99x36]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ListControl[@Name='Painéis de operação científica']/ListItemControl[@Name='Funções']/ButtonControl[@Name='Funções']",
+                      "Children": [
+                        {
+                          "Name": "",
+                          "AutomationId": "",
+                          "ControlType": "TextControl",
+                          "ClassName": "TextBlock",
+                          "BoundingRectangle": "(351,502,367,518)[16x16]",
+                          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ListControl[@Name='Painéis de operação científica']/ListItemControl[@Name='Funções']/ButtonControl[@Name='Funções']/TextControl[@Name='']",
+                          "Children": []
+                        },
+                        {
+                          "Name": "Função",
+                          "AutomationId": "",
+                          "ControlType": "TextControl",
+                          "ClassName": "TextBlock",
+                          "BoundingRectangle": "(375,501,414,517)[39x16]",
+                          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ListControl[@Name='Painéis de operação científica']/ListItemControl[@Name='Funções']/ButtonControl[@Name='Funções']/TextControl[@Name='Função']",
+                          "Children": []
+                        },
+                        {
+                          "Name": "",
+                          "AutomationId": "",
+                          "ControlType": "TextControl",
+                          "ClassName": "TextBlock",
+                          "BoundingRectangle": "(422,505,434,517)[12x12]",
+                          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ListControl[@Name='Painéis de operação científica']/ListItemControl[@Name='Funções']/ButtonControl[@Name='Funções']/TextControl[@Name='']",
+                          "Children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Name": "Função inversa",
+              "AutomationId": "shiftButton",
+              "ControlType": "ButtonControl",
+              "ClassName": "ToggleButton",
+              "BoundingRectangle": "(206,529,276,570)[70x41]",
+              "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Função inversa']",
+              "Children": [
+                {
+                  "Name": "",
+                  "AutomationId": "",
+                  "ControlType": "TextControl",
+                  "ClassName": "TextBlock",
+                  "BoundingRectangle": "(234,543,249,557)[15x14]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Função inversa']/TextControl[@Name='']",
+                  "Children": []
+                }
+              ]
+            },
+            {
+              "Name": "Pi",
+              "AutomationId": "piButton",
+              "ControlType": "ButtonControl",
+              "ClassName": "Button",
+              "BoundingRectangle": "(278,529,349,570)[71x41]",
+              "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Pi']",
+              "Children": [
+                {
+                  "Name": "",
+                  "AutomationId": "",
+                  "ControlType": "TextControl",
+                  "ClassName": "TextBlock",
+                  "BoundingRectangle": "(307,543,321,557)[14x14]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Pi']/TextControl[@Name='']",
+                  "Children": []
+                }
+              ]
+            },
+            {
+              "Name": "Número de Euler",
+              "AutomationId": "eulerButton",
+              "ControlType": "ButtonControl",
+              "ClassName": "Button",
+              "BoundingRectangle": "(351,529,421,570)[70x41]",
+              "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Número de Euler']",
+              "Children": [
+                {
+                  "Name": "e",
+                  "AutomationId": "",
+                  "ControlType": "TextControl",
+                  "ClassName": "TextBlock",
+                  "BoundingRectangle": "(382,540,390,559)[8x19]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Número de Euler']/TextControl[@Name='e']",
+                  "Children": []
+                }
+              ]
+            },
+            {
+              "Name": "Controles de exibição",
+              "AutomationId": "DisplayControls",
+              "ControlType": "GroupControl",
+              "ClassName": "NamedContainerAutomationPeer",
+              "BoundingRectangle": "(423,529,566,570)[143x41]",
+              "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Controles de exibição']",
+              "Children": [
+                {
+                  "Name": "Limpar entrada",
+                  "AutomationId": "clearEntryButton",
+                  "ControlType": "ButtonControl",
+                  "ClassName": "Button",
+                  "BoundingRectangle": "(423,529,494,570)[71x41]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Controles de exibição']/ButtonControl[@Name='Limpar entrada']",
+                  "Children": [
+                    {
+                      "Name": "CE",
+                      "AutomationId": "",
+                      "ControlType": "TextControl",
+                      "ClassName": "TextBlock",
+                      "BoundingRectangle": "(451,540,467,559)[16x19]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Controles de exibição']/ButtonControl[@Name='Limpar entrada']/TextControl[@Name='CE']",
+                      "Children": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "Backspace",
+                  "AutomationId": "backSpaceButton",
+                  "ControlType": "ButtonControl",
+                  "ClassName": "Button",
+                  "BoundingRectangle": "(496,529,566,570)[70x41]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Controles de exibição']/ButtonControl[@Name='Backspace']",
+                  "Children": [
+                    {
+                      "Name": "",
+                      "AutomationId": "",
+                      "ControlType": "TextControl",
+                      "ClassName": "TextBlock",
+                      "BoundingRectangle": "(524,543,538,557)[14x14]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Controles de exibição']/ButtonControl[@Name='Backspace']/TextControl[@Name='']",
+                      "Children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Name": "Funções científicas",
+              "AutomationId": "",
+              "ControlType": "GroupControl",
+              "ClassName": "NamedContainerAutomationPeer",
+              "BoundingRectangle": "(206,572,276,828)[70x256]",
+              "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Funções científicas']",
+              "Children": [
+                {
+                  "Name": "Quadrado",
+                  "AutomationId": "xpower2Button",
+                  "ControlType": "ButtonControl",
+                  "ClassName": "Button",
+                  "BoundingRectangle": "(206,572,276,613)[70x41]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Funções científicas']/ButtonControl[@Name='Quadrado']",
+                  "Children": [
+                    {
+                      "Name": "",
+                      "AutomationId": "",
+                      "ControlType": "TextControl",
+                      "ClassName": "TextBlock",
+                      "BoundingRectangle": "(234,586,248,600)[14x14]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Funções científicas']/ButtonControl[@Name='Quadrado']/TextControl[@Name='']",
+                      "Children": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "Raiz quadrada",
+                  "AutomationId": "squareRootButton",
+                  "ControlType": "ButtonControl",
+                  "ClassName": "Button",
+                  "BoundingRectangle": "(206,615,276,656)[70x41]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Funções científicas']/ButtonControl[@Name='Raiz quadrada']",
+                  "Children": [
+                    {
+                      "Name": "",
+                      "AutomationId": "",
+                      "ControlType": "TextControl",
+                      "ClassName": "TextBlock",
+                      "BoundingRectangle": "(233,629,249,643)[16x14]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Funções científicas']/ButtonControl[@Name='Raiz quadrada']/TextControl[@Name='']",
+                      "Children": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "Potência de “X”",
+                  "AutomationId": "powerButton",
+                  "ControlType": "ButtonControl",
+                  "ClassName": "Button",
+                  "BoundingRectangle": "(206,658,276,699)[70x41]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Funções científicas']/ButtonControl[@Name='Potência de “X”']",
+                  "Children": [
+                    {
+                      "Name": "",
+                      "AutomationId": "",
+                      "ControlType": "TextControl",
+                      "ClassName": "TextBlock",
+                      "BoundingRectangle": "(234,672,248,686)[14x14]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Funções científicas']/ButtonControl[@Name='Potência de “X”']/TextControl[@Name='']",
+                      "Children": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "Potência de dez",
+                  "AutomationId": "powerOf10Button",
+                  "ControlType": "ButtonControl",
+                  "ClassName": "Button",
+                  "BoundingRectangle": "(206,701,276,742)[70x41]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Funções científicas']/ButtonControl[@Name='Potência de dez']",
+                  "Children": [
+                    {
+                      "Name": "",
+                      "AutomationId": "",
+                      "ControlType": "TextControl",
+                      "ClassName": "TextBlock",
+                      "BoundingRectangle": "(232,715,250,729)[18x14]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Funções científicas']/ButtonControl[@Name='Potência de dez']/TextControl[@Name='']",
+                      "Children": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "Log",
+                  "AutomationId": "logBase10Button",
+                  "ControlType": "ButtonControl",
+                  "ClassName": "Button",
+                  "BoundingRectangle": "(206,744,276,785)[70x41]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Funções científicas']/ButtonControl[@Name='Log']",
+                  "Children": [
+                    {
+                      "Name": "log",
+                      "AutomationId": "",
+                      "ControlType": "TextControl",
+                      "ClassName": "TextBlock",
+                      "BoundingRectangle": "(231,755,251,774)[20x19]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Funções científicas']/ButtonControl[@Name='Log']/TextControl[@Name='log']",
+                      "Children": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "Logaritmo natural",
+                  "AutomationId": "logBaseEButton",
+                  "ControlType": "ButtonControl",
+                  "ClassName": "Button",
+                  "BoundingRectangle": "(206,787,276,828)[70x41]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Funções científicas']/ButtonControl[@Name='Logaritmo natural']",
+                  "Children": [
+                    {
+                      "Name": "ln",
+                      "AutomationId": "",
+                      "ControlType": "TextControl",
+                      "ClassName": "TextBlock",
+                      "BoundingRectangle": "(235,798,247,817)[12x19]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Funções científicas']/ButtonControl[@Name='Logaritmo natural']/TextControl[@Name='ln']",
+                      "Children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Name": "Recíproco",
+              "AutomationId": "invertButton",
+              "ControlType": "ButtonControl",
+              "ClassName": "Button",
+              "BoundingRectangle": "(278,572,349,613)[71x41]",
+              "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Recíproco']",
+              "Children": [
+                {
+                  "Name": "",
+                  "AutomationId": "",
+                  "ControlType": "TextControl",
+                  "ClassName": "TextBlock",
+                  "BoundingRectangle": "(307,586,321,600)[14x14]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Recíproco']/TextControl[@Name='']",
+                  "Children": []
+                }
+              ]
+            },
+            {
+              "Name": "Valor absoluto",
+              "AutomationId": "absButton",
+              "ControlType": "ButtonControl",
+              "ClassName": "Button",
+              "BoundingRectangle": "(351,572,421,613)[70x41]",
+              "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Valor absoluto']",
+              "Children": [
+                {
+                  "Name": "",
+                  "AutomationId": "",
+                  "ControlType": "TextControl",
+                  "ClassName": "TextBlock",
+                  "BoundingRectangle": "(379,586,393,600)[14x14]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Valor absoluto']/TextControl[@Name='']",
+                  "Children": []
+                }
+              ]
+            },
+            {
+              "Name": "Exponencial",
+              "AutomationId": "expButton",
+              "ControlType": "ButtonControl",
+              "ClassName": "Button",
+              "BoundingRectangle": "(423,572,494,613)[71x41]",
+              "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Exponencial']",
+              "Children": [
+                {
+                  "Name": "exp",
+                  "AutomationId": "",
+                  "ControlType": "TextControl",
+                  "ClassName": "TextBlock",
+                  "BoundingRectangle": "(448,583,470,602)[22x19]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Exponencial']/TextControl[@Name='exp']",
+                  "Children": []
+                }
+              ]
+            },
+            {
+              "Name": "Módulo",
+              "AutomationId": "modButton",
+              "ControlType": "ButtonControl",
+              "ClassName": "Button",
+              "BoundingRectangle": "(496,572,566,613)[70x41]",
+              "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Módulo']",
+              "Children": [
+                {
+                  "Name": "mod",
+                  "AutomationId": "",
+                  "ControlType": "TextControl",
+                  "ClassName": "TextBlock",
+                  "BoundingRectangle": "(517,583,546,602)[29x19]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Módulo']/TextControl[@Name='mod']",
+                  "Children": []
+                }
+              ]
+            },
+            {
+              "Name": "Parêntese esquerdo",
+              "AutomationId": "openParenthesisButton",
+              "ControlType": "ButtonControl",
+              "ClassName": "Button",
+              "BoundingRectangle": "(278,615,349,656)[71x41]",
+              "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Parêntese esquerdo']",
+              "Children": [
+                {
+                  "Name": "(",
+                  "AutomationId": "",
+                  "ControlType": "TextControl",
+                  "ClassName": "TextBlock",
+                  "BoundingRectangle": "(311,626,316,645)[5x19]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Parêntese esquerdo']/TextControl[@Name='(']",
+                  "Children": []
+                },
+                {
+                  "Name": "",
+                  "AutomationId": "ParenthesisCount",
+                  "ControlType": "TextControl",
+                  "ClassName": "TextBlock",
+                  "BoundingRectangle": "(0,0,0,0)[0x0]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Parêntese esquerdo']/TextControl[@AutomationId='ParenthesisCount']",
+                  "Children": []
+                }
+              ]
+            },
+            {
+              "Name": "Parêntese direito",
+              "AutomationId": "closeParenthesisButton",
+              "ControlType": "ButtonControl",
+              "ClassName": "Button",
+              "BoundingRectangle": "(351,615,421,656)[70x41]",
+              "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Parêntese direito']",
+              "Children": [
+                {
+                  "Name": ")",
+                  "AutomationId": "",
+                  "ControlType": "TextControl",
+                  "ClassName": "TextBlock",
+                  "BoundingRectangle": "(384,626,389,645)[5x19]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Parêntese direito']/TextControl[@Name=')']",
+                  "Children": []
+                }
+              ]
+            },
+            {
+              "Name": "Fatorial",
+              "AutomationId": "factorialButton",
+              "ControlType": "ButtonControl",
+              "ClassName": "Button",
+              "BoundingRectangle": "(423,615,494,656)[71x41]",
+              "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Fatorial']",
+              "Children": [
+                {
+                  "Name": "",
+                  "AutomationId": "",
+                  "ControlType": "TextControl",
+                  "ClassName": "TextBlock",
+                  "BoundingRectangle": "(452,629,466,643)[14x14]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Fatorial']/TextControl[@Name='']",
+                  "Children": []
+                }
+              ]
+            },
+            {
+              "Name": "Operadores padrão",
+              "AutomationId": "StandardOperators",
+              "ControlType": "GroupControl",
+              "ClassName": "NamedContainerAutomationPeer",
+              "BoundingRectangle": "(496,615,566,828)[70x213]",
+              "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Operadores padrão']",
+              "Children": [
+                {
+                  "Name": "Dividir por",
+                  "AutomationId": "divideButton",
+                  "ControlType": "ButtonControl",
+                  "ClassName": "Button",
+                  "BoundingRectangle": "(496,615,566,656)[70x41]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Operadores padrão']/ButtonControl[@Name='Dividir por']",
+                  "Children": [
+                    {
+                      "Name": "",
+                      "AutomationId": "",
+                      "ControlType": "TextControl",
+                      "ClassName": "TextBlock",
+                      "BoundingRectangle": "(524,629,538,643)[14x14]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Operadores padrão']/ButtonControl[@Name='Dividir por']/TextControl[@Name='']",
+                      "Children": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "Multiplicar por",
+                  "AutomationId": "multiplyButton",
+                  "ControlType": "ButtonControl",
+                  "ClassName": "Button",
+                  "BoundingRectangle": "(496,658,566,699)[70x41]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Operadores padrão']/ButtonControl[@Name='Multiplicar por']",
+                  "Children": [
+                    {
+                      "Name": "",
+                      "AutomationId": "",
+                      "ControlType": "TextControl",
+                      "ClassName": "TextBlock",
+                      "BoundingRectangle": "(524,672,538,686)[14x14]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Operadores padrão']/ButtonControl[@Name='Multiplicar por']/TextControl[@Name='']",
+                      "Children": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "Menos",
+                  "AutomationId": "minusButton",
+                  "ControlType": "ButtonControl",
+                  "ClassName": "Button",
+                  "BoundingRectangle": "(496,701,566,742)[70x41]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Operadores padrão']/ButtonControl[@Name='Menos']",
+                  "Children": [
+                    {
+                      "Name": "",
+                      "AutomationId": "",
+                      "ControlType": "TextControl",
+                      "ClassName": "TextBlock",
+                      "BoundingRectangle": "(524,715,538,729)[14x14]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Operadores padrão']/ButtonControl[@Name='Menos']/TextControl[@Name='']",
+                      "Children": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "Mais",
+                  "AutomationId": "plusButton",
+                  "ControlType": "ButtonControl",
+                  "ClassName": "Button",
+                  "BoundingRectangle": "(496,744,566,785)[70x41]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Operadores padrão']/ButtonControl[@Name='Mais']",
+                  "Children": [
+                    {
+                      "Name": "",
+                      "AutomationId": "",
+                      "ControlType": "TextControl",
+                      "ClassName": "TextBlock",
+                      "BoundingRectangle": "(524,758,538,772)[14x14]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Operadores padrão']/ButtonControl[@Name='Mais']/TextControl[@Name='']",
+                      "Children": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "Igual a",
+                  "AutomationId": "equalButton",
+                  "ControlType": "ButtonControl",
+                  "ClassName": "Button",
+                  "BoundingRectangle": "(496,787,566,828)[70x41]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Operadores padrão']/ButtonControl[@Name='Igual a']",
+                  "Children": [
+                    {
+                      "Name": "",
+                      "AutomationId": "",
+                      "ControlType": "TextControl",
+                      "ClassName": "TextBlock",
+                      "BoundingRectangle": "(524,801,538,815)[14x14]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Operadores padrão']/ButtonControl[@Name='Igual a']/TextControl[@Name='']",
+                      "Children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Name": "Positivo negativo",
+              "AutomationId": "negateButton",
+              "ControlType": "ButtonControl",
+              "ClassName": "Button",
+              "BoundingRectangle": "(278,787,349,828)[71x41]",
+              "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Positivo negativo']",
+              "Children": [
+                {
+                  "Name": "",
+                  "AutomationId": "",
+                  "ControlType": "TextControl",
+                  "ClassName": "TextBlock",
+                  "BoundingRectangle": "(306,801,322,815)[16x14]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Positivo negativo']/TextControl[@Name='']",
+                  "Children": []
+                }
+              ]
+            },
+            {
+              "Name": "Teclado numérico",
+              "AutomationId": "NumberPad",
+              "ControlType": "GroupControl",
+              "ClassName": "NamedContainerAutomationPeer",
+              "BoundingRectangle": "(278,658,494,828)[216x170]",
+              "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']",
+              "Children": [
+                {
+                  "Name": "Zero",
+                  "AutomationId": "num0Button",
+                  "ControlType": "ButtonControl",
+                  "ClassName": "Button",
+                  "BoundingRectangle": "(351,787,422,828)[71x41]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Zero']",
+                  "Children": [
+                    {
+                      "Name": "0",
+                      "AutomationId": "",
+                      "ControlType": "TextControl",
+                      "ClassName": "TextBlock",
+                      "BoundingRectangle": "(382,796,392,820)[10x24]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Zero']/TextControl[@Name='0']",
+                      "Children": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "Um",
+                  "AutomationId": "num1Button",
+                  "ControlType": "ButtonControl",
+                  "ClassName": "Button",
+                  "BoundingRectangle": "(278,744,349,785)[71x41]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Um']",
+                  "Children": [
+                    {
+                      "Name": "1",
+                      "AutomationId": "",
+                      "ControlType": "TextControl",
+                      "ClassName": "TextBlock",
+                      "BoundingRectangle": "(309,753,319,777)[10x24]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Um']/TextControl[@Name='1']",
+                      "Children": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "Dois",
+                  "AutomationId": "num2Button",
+                  "ControlType": "ButtonControl",
+                  "ClassName": "Button",
+                  "BoundingRectangle": "(351,744,422,785)[71x41]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Dois']",
+                  "Children": [
+                    {
+                      "Name": "2",
+                      "AutomationId": "",
+                      "ControlType": "TextControl",
+                      "ClassName": "TextBlock",
+                      "BoundingRectangle": "(382,753,392,777)[10x24]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Dois']/TextControl[@Name='2']",
+                      "Children": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "Três",
+                  "AutomationId": "num3Button",
+                  "ControlType": "ButtonControl",
+                  "ClassName": "Button",
+                  "BoundingRectangle": "(424,744,494,785)[70x41]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Três']",
+                  "Children": [
+                    {
+                      "Name": "3",
+                      "AutomationId": "",
+                      "ControlType": "TextControl",
+                      "ClassName": "TextBlock",
+                      "BoundingRectangle": "(454,753,464,777)[10x24]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Três']/TextControl[@Name='3']",
+                      "Children": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "Quatro",
+                  "AutomationId": "num4Button",
+                  "ControlType": "ButtonControl",
+                  "ClassName": "Button",
+                  "BoundingRectangle": "(278,701,349,742)[71x41]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Quatro']",
+                  "Children": [
+                    {
+                      "Name": "4",
+                      "AutomationId": "",
+                      "ControlType": "TextControl",
+                      "ClassName": "TextBlock",
+                      "BoundingRectangle": "(309,710,319,734)[10x24]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Quatro']/TextControl[@Name='4']",
+                      "Children": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "Cinco",
+                  "AutomationId": "num5Button",
+                  "ControlType": "ButtonControl",
+                  "ClassName": "Button",
+                  "BoundingRectangle": "(351,701,422,742)[71x41]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Cinco']",
+                  "Children": [
+                    {
+                      "Name": "5",
+                      "AutomationId": "",
+                      "ControlType": "TextControl",
+                      "ClassName": "TextBlock",
+                      "BoundingRectangle": "(382,710,392,734)[10x24]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Cinco']/TextControl[@Name='5']",
+                      "Children": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "Seis",
+                  "AutomationId": "num6Button",
+                  "ControlType": "ButtonControl",
+                  "ClassName": "Button",
+                  "BoundingRectangle": "(424,701,494,742)[70x41]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Seis']",
+                  "Children": [
+                    {
+                      "Name": "6",
+                      "AutomationId": "",
+                      "ControlType": "TextControl",
+                      "ClassName": "TextBlock",
+                      "BoundingRectangle": "(454,710,464,734)[10x24]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Seis']/TextControl[@Name='6']",
+                      "Children": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "Sete",
+                  "AutomationId": "num7Button",
+                  "ControlType": "ButtonControl",
+                  "ClassName": "Button",
+                  "BoundingRectangle": "(278,658,349,699)[71x41]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Sete']",
+                  "Children": [
+                    {
+                      "Name": "7",
+                      "AutomationId": "",
+                      "ControlType": "TextControl",
+                      "ClassName": "TextBlock",
+                      "BoundingRectangle": "(309,667,319,691)[10x24]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Sete']/TextControl[@Name='7']",
+                      "Children": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "Oito",
+                  "AutomationId": "num8Button",
+                  "ControlType": "ButtonControl",
+                  "ClassName": "Button",
+                  "BoundingRectangle": "(351,658,422,699)[71x41]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Oito']",
+                  "Children": [
+                    {
+                      "Name": "8",
+                      "AutomationId": "",
+                      "ControlType": "TextControl",
+                      "ClassName": "TextBlock",
+                      "BoundingRectangle": "(382,667,392,691)[10x24]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Oito']/TextControl[@Name='8']",
+                      "Children": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "Nove",
+                  "AutomationId": "num9Button",
+                  "ControlType": "ButtonControl",
+                  "ClassName": "Button",
+                  "BoundingRectangle": "(424,658,494,699)[70x41]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Nove']",
+                  "Children": [
+                    {
+                      "Name": "9",
+                      "AutomationId": "",
+                      "ControlType": "TextControl",
+                      "ClassName": "TextBlock",
+                      "BoundingRectangle": "(454,667,464,691)[10x24]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Nove']/TextControl[@Name='9']",
+                      "Children": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "Separador decimal",
+                  "AutomationId": "decimalSeparatorButton",
+                  "ControlType": "ButtonControl",
+                  "ClassName": "Button",
+                  "BoundingRectangle": "(424,787,494,828)[70x41]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Separador decimal']",
+                  "Children": [
+                    {
+                      "Name": ",",
+                      "AutomationId": "",
+                      "ControlType": "TextControl",
+                      "ClassName": "TextBlock",
+                      "BoundingRectangle": "(457,796,461,820)[4x24]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Teclado numérico']/ButtonControl[@Name='Separador decimal']/TextControl[@Name=',']",
+                      "Children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Name": "Listas de memória e histórico",
+              "AutomationId": "DockPanel",
+              "ControlType": "GroupControl",
+              "ClassName": "NamedContainerAutomationPeer",
+              "BoundingRectangle": "(570,234,846,832)[276x598]",
+              "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Listas de memória e histórico']",
+              "Children": [
+                {
+                  "Name": "",
+                  "AutomationId": "DockPivot",
+                  "ControlType": "TabControl",
+                  "ClassName": "Pivot",
+                  "BoundingRectangle": "(570,234,846,832)[276x598]",
+                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Listas de memória e histórico']/TabControl[@AutomationId='DockPivot']",
+                  "Children": [
+                    {
+                      "Name": "Histórico",
+                      "AutomationId": "HistoryLabel",
+                      "ControlType": "TabItemControl",
+                      "ClassName": "PivotItem",
+                      "BoundingRectangle": "(570,234,650,282)[80x48]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Listas de memória e histórico']/TabControl[@AutomationId='DockPivot']/TabItemControl[@Name='Histórico']",
+                      "Children": [
+                        {
+                          "Name": "",
+                          "AutomationId": "HistoryListView",
+                          "ControlType": "ListControl",
+                          "ClassName": "ListView",
+                          "BoundingRectangle": "(574,292,842,784)[268x492]",
+                          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Listas de memória e histórico']/TabControl[@AutomationId='DockPivot']/TabItemControl[@Name='Histórico']/ListControl[@AutomationId='HistoryListView']",
+                          "Children": [
+                            {
+                              "Name": "2,5622506817269511091606760627979e+1365 + 0= 2,5622506817269511091606760627979e+1365",
+                              "AutomationId": "",
+                              "ControlType": "ListItemControl",
+                              "ClassName": "ListViewItem",
+                              "BoundingRectangle": "(574,292,842,400)[268x108]",
+                              "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Listas de memória e histórico']/TabControl[@AutomationId='DockPivot']/TabItemControl[@Name='Histórico']/ListControl[@AutomationId='HistoryListView']/ListItemControl[@Name='2,5622506817269511091606760627979e+1365 + 0= 2,5622506817269511091606760627979e+1365']",
+                              "Children": [
+                                {
+                                  "Name": "2,5622506817269511091606760627979e+1365 + 0= 2,5622506817269511091606760627979e+1365",
+                                  "AutomationId": "",
+                                  "ControlType": "GroupControl",
+                                  "ClassName": "NamedContainerAutomationPeer",
+                                  "BoundingRectangle": "(574,292,842,400)[268x108]",
+                                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Listas de memória e histórico']/TabControl[@AutomationId='DockPivot']/TabItemControl[@Name='Histórico']/ListControl[@AutomationId='HistoryListView']/ListItemControl[@Name='2,5622506817269511091606760627979e+1365 + 0= 2,5622506817269511091606760627979e+1365']/GroupControl[@Name='2,5622506817269511091606760627979e+1365 + 0= 2,5622506817269511091606760627979e+1365']",
+                                  "Children": [
+                                    {
+                                      "Name": "2,5622506817269511091606760627979e+1365   +   0 =",
+                                      "AutomationId": "HistoryItemExpression",
+                                      "ControlType": "TextControl",
+                                      "ClassName": "TextBlock",
+                                      "BoundingRectangle": "(574,298,826,336)[252x38]",
+                                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Listas de memória e histórico']/TabControl[@AutomationId='DockPivot']/TabItemControl[@Name='Histórico']/ListControl[@AutomationId='HistoryListView']/ListItemControl[@Name='2,5622506817269511091606760627979e+1365 + 0= 2,5622506817269511091606760627979e+1365']/GroupControl[@Name='2,5622506817269511091606760627979e+1365 + 0= 2,5622506817269511091606760627979e+1365']/TextControl[@Name='2,5622506817269511091606760627979e+1365   +   0 =']",
+                                      "Children": []
+                                    },
+                                    {
+                                      "Name": "2,5622506817269511091606760627979e+1365",
+                                      "AutomationId": "HistoryItemValue",
+                                      "ControlType": "TextControl",
+                                      "ClassName": "TextBlock",
+                                      "BoundingRectangle": "(577,340,826,394)[249x54]",
+                                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Listas de memória e histórico']/TabControl[@AutomationId='DockPivot']/TabItemControl[@Name='Histórico']/ListControl[@AutomationId='HistoryListView']/ListItemControl[@Name='2,5622506817269511091606760627979e+1365 + 0= 2,5622506817269511091606760627979e+1365']/GroupControl[@Name='2,5622506817269511091606760627979e+1365 + 0= 2,5622506817269511091606760627979e+1365']/TextControl[@Name='2,5622506817269511091606760627979e+1365']",
+                                      "Children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "Name": "2,5622506817269511091606760627979e+1365 + 0= 2,5622506817269511091606760627979e+1365",
+                              "AutomationId": "",
+                              "ControlType": "ListItemControl",
+                              "ClassName": "ListViewItem",
+                              "BoundingRectangle": "(574,420,842,528)[268x108]",
+                              "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Listas de memória e histórico']/TabControl[@AutomationId='DockPivot']/TabItemControl[@Name='Histórico']/ListControl[@AutomationId='HistoryListView']/ListItemControl[@Name='2,5622506817269511091606760627979e+1365 + 0= 2,5622506817269511091606760627979e+1365']",
+                              "Children": [
+                                {
+                                  "Name": "2,5622506817269511091606760627979e+1365 + 0= 2,5622506817269511091606760627979e+1365",
+                                  "AutomationId": "",
+                                  "ControlType": "GroupControl",
+                                  "ClassName": "NamedContainerAutomationPeer",
+                                  "BoundingRectangle": "(574,420,842,528)[268x108]",
+                                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Listas de memória e histórico']/TabControl[@AutomationId='DockPivot']/TabItemControl[@Name='Histórico']/ListControl[@AutomationId='HistoryListView']/ListItemControl[@Name='2,5622506817269511091606760627979e+1365 + 0= 2,5622506817269511091606760627979e+1365']/GroupControl[@Name='2,5622506817269511091606760627979e+1365 + 0= 2,5622506817269511091606760627979e+1365']",
+                                  "Children": [
+                                    {
+                                      "Name": "2,5622506817269511091606760627979e+1365   +   0 =",
+                                      "AutomationId": "HistoryItemExpression",
+                                      "ControlType": "TextControl",
+                                      "ClassName": "TextBlock",
+                                      "BoundingRectangle": "(574,426,826,464)[252x38]",
+                                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Listas de memória e histórico']/TabControl[@AutomationId='DockPivot']/TabItemControl[@Name='Histórico']/ListControl[@AutomationId='HistoryListView']/ListItemControl[@Name='2,5622506817269511091606760627979e+1365 + 0= 2,5622506817269511091606760627979e+1365']/GroupControl[@Name='2,5622506817269511091606760627979e+1365 + 0= 2,5622506817269511091606760627979e+1365']/TextControl[@Name='2,5622506817269511091606760627979e+1365   +   0 =']",
+                                      "Children": []
+                                    },
+                                    {
+                                      "Name": "2,5622506817269511091606760627979e+1365",
+                                      "AutomationId": "HistoryItemValue",
+                                      "ControlType": "TextControl",
+                                      "ClassName": "TextBlock",
+                                      "BoundingRectangle": "(577,468,826,522)[249x54]",
+                                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Listas de memória e histórico']/TabControl[@AutomationId='DockPivot']/TabItemControl[@Name='Histórico']/ListControl[@AutomationId='HistoryListView']/ListItemControl[@Name='2,5622506817269511091606760627979e+1365 + 0= 2,5622506817269511091606760627979e+1365']/GroupControl[@Name='2,5622506817269511091606760627979e+1365 + 0= 2,5622506817269511091606760627979e+1365']/TextControl[@Name='2,5622506817269511091606760627979e+1365']",
+                                      "Children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "Name": "987 ^ 456 + 0= 2,5622506817269511091606760627979e+1365",
+                              "AutomationId": "",
+                              "ControlType": "ListItemControl",
+                              "ClassName": "ListViewItem",
+                              "BoundingRectangle": "(574,548,842,637)[268x89]",
+                              "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Listas de memória e histórico']/TabControl[@AutomationId='DockPivot']/TabItemControl[@Name='Histórico']/ListControl[@AutomationId='HistoryListView']/ListItemControl[@Name='987 ^ 456 + 0= 2,5622506817269511091606760627979e+1365']",
+                              "Children": [
+                                {
+                                  "Name": "987 ^ 456 + 0= 2,5622506817269511091606760627979e+1365",
+                                  "AutomationId": "",
+                                  "ControlType": "GroupControl",
+                                  "ClassName": "NamedContainerAutomationPeer",
+                                  "BoundingRectangle": "(574,548,842,637)[268x89]",
+                                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Listas de memória e histórico']/TabControl[@AutomationId='DockPivot']/TabItemControl[@Name='Histórico']/ListControl[@AutomationId='HistoryListView']/ListItemControl[@Name='987 ^ 456 + 0= 2,5622506817269511091606760627979e+1365']/GroupControl[@Name='987 ^ 456 + 0= 2,5622506817269511091606760627979e+1365']",
+                                  "Children": [
+                                    {
+                                      "Name": "987   ^   456   +   0 =",
+                                      "AutomationId": "HistoryItemExpression",
+                                      "ControlType": "TextControl",
+                                      "ClassName": "TextBlock",
+                                      "BoundingRectangle": "(694,554,826,573)[132x19]",
+                                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Listas de memória e histórico']/TabControl[@AutomationId='DockPivot']/TabItemControl[@Name='Histórico']/ListControl[@AutomationId='HistoryListView']/ListItemControl[@Name='987 ^ 456 + 0= 2,5622506817269511091606760627979e+1365']/GroupControl[@Name='987 ^ 456 + 0= 2,5622506817269511091606760627979e+1365']/TextControl[@Name='987   ^   456   +   0 =']",
+                                      "Children": []
+                                    },
+                                    {
+                                      "Name": "2,5622506817269511091606760627979e+1365",
+                                      "AutomationId": "HistoryItemValue",
+                                      "ControlType": "TextControl",
+                                      "ClassName": "TextBlock",
+                                      "BoundingRectangle": "(577,577,826,631)[249x54]",
+                                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Listas de memória e histórico']/TabControl[@AutomationId='DockPivot']/TabItemControl[@Name='Histórico']/ListControl[@AutomationId='HistoryListView']/ListItemControl[@Name='987 ^ 456 + 0= 2,5622506817269511091606760627979e+1365']/GroupControl[@Name='987 ^ 456 + 0= 2,5622506817269511091606760627979e+1365']/TextControl[@Name='2,5622506817269511091606760627979e+1365']",
+                                      "Children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "Name": "ceil(floor(Valor absoluto (cotangente em graus (cotangente em graus (cossecante em graus (secante hiperbólica (graus da tangente (graus do cosseno (graus do seno (graus inversos do seno (0))))))))))) 89",
+                              "AutomationId": "",
+                              "ControlType": "ListItemControl",
+                              "ClassName": "ListViewItem",
+                              "BoundingRectangle": "(574,657,842,738)[268x81]",
+                              "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Listas de memória e histórico']/TabControl[@AutomationId='DockPivot']/TabItemControl[@Name='Histórico']/ListControl[@AutomationId='HistoryListView']/ListItemControl[@Name='ceil(floor(Valor absoluto (cotangente em graus (cotangente em graus (cossecante em graus (secante hiperbólica (graus da tangente (graus do cosseno (graus do seno (graus inversos do seno (0))))))))))) 89']",
+                              "Children": [
+                                {
+                                  "Name": "ceil(floor(Valor absoluto (cotangente em graus (cotangente em graus (cossecante em graus (secante hiperbólica (graus da tangente (graus do cosseno (graus do seno (graus inversos do seno (0))))))))))) 89",
+                                  "AutomationId": "",
+                                  "ControlType": "GroupControl",
+                                  "ClassName": "NamedContainerAutomationPeer",
+                                  "BoundingRectangle": "(574,657,842,738)[268x81]",
+                                  "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Listas de memória e histórico']/TabControl[@AutomationId='DockPivot']/TabItemControl[@Name='Histórico']/ListControl[@AutomationId='HistoryListView']/ListItemControl[@Name='ceil(floor(Valor absoluto (cotangente em graus (cotangente em graus (cossecante em graus (secante hiperbólica (graus da tangente (graus do cosseno (graus do seno (graus inversos do seno (0))))))))))) 89']/GroupControl[@Name='ceil(floor(Valor absoluto (cotangente em graus (cotangente em graus (cossecante em graus (secante hiperbólica (graus da tangente (graus do cosseno (graus do seno (graus inversos do seno (0))))))))))) 89']",
+                                  "Children": [
+                                    {
+                                      "Name": "ceil( floor( abs( cot₀( cot₀( csc₀( sech( tan₀( cos₀( sin₀( sin₀⁻¹( 0 ) ) ) ) ) ) ) ) ) ) )",
+                                      "AutomationId": "HistoryItemExpression",
+                                      "ControlType": "TextControl",
+                                      "ClassName": "TextBlock",
+                                      "BoundingRectangle": "(578,663,826,701)[248x38]",
+                                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Listas de memória e histórico']/TabControl[@AutomationId='DockPivot']/TabItemControl[@Name='Histórico']/ListControl[@AutomationId='HistoryListView']/ListItemControl[@Name='ceil(floor(Valor absoluto (cotangente em graus (cotangente em graus (cossecante em graus (secante hiperbólica (graus da tangente (graus do cosseno (graus do seno (graus inversos do seno (0))))))))))) 89']/GroupControl[@Name='ceil(floor(Valor absoluto (cotangente em graus (cotangente em graus (cossecante em graus (secante hiperbólica (graus da tangente (graus do cosseno (graus do seno (graus inversos do seno (0))))))))))) 89']/TextControl[@Name='ceil( floor( abs( cot₀( cot₀( csc₀( sech( tan₀( cos₀( sin₀( sin₀⁻¹( 0 ) ) ) ) ) ) ) ) ) ) )']",
+                                      "Children": []
+                                    },
+                                    {
+                                      "Name": "89",
+                                      "AutomationId": "HistoryItemValue",
+                                      "ControlType": "TextControl",
+                                      "ClassName": "TextBlock",
+                                      "BoundingRectangle": "(803,705,826,732)[23x27]",
+                                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Listas de memória e histórico']/TabControl[@AutomationId='DockPivot']/TabItemControl[@Name='Histórico']/ListControl[@AutomationId='HistoryListView']/ListItemControl[@Name='ceil(floor(Valor absoluto (cotangente em graus (cotangente em graus (cossecante em graus (secante hiperbólica (graus da tangente (graus do cosseno (graus do seno (graus inversos do seno (0))))))))))) 89']/GroupControl[@Name='ceil(floor(Valor absoluto (cotangente em graus (cotangente em graus (cossecante em graus (secante hiperbólica (graus da tangente (graus do cosseno (graus do seno (graus inversos do seno (0))))))))))) 89']/TextControl[@Name='89']",
+                                      "Children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "Name": "Limpar todo o histórico",
+                          "AutomationId": "ClearHistory",
+                          "ControlType": "ButtonControl",
+                          "ClassName": "Button",
+                          "BoundingRectangle": "(806,792,838,824)[32x32]",
+                          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Listas de memória e histórico']/TabControl[@AutomationId='DockPivot']/TabItemControl[@Name='Histórico']/ButtonControl[@Name='Limpar todo o histórico']",
+                          "Children": [
+                            {
+                              "Name": "",
+                              "AutomationId": "",
+                              "ControlType": "TextControl",
+                              "ClassName": "TextBlock",
+                              "BoundingRectangle": "(814,800,830,816)[16x16]",
+                              "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Listas de memória e histórico']/TabControl[@AutomationId='DockPivot']/TabItemControl[@Name='Histórico']/ButtonControl[@Name='Limpar todo o histórico']/TextControl[@Name='']",
+                              "Children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "Name": "Não há nada salvo na memória Memória",
+                      "AutomationId": "MemoryLabel",
+                      "ControlType": "TabItemControl",
+                      "ClassName": "PivotItem",
+                      "BoundingRectangle": "(650,234,730,282)[80x48]",
+                      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Listas de memória e histórico']/TabControl[@AutomationId='DockPivot']/TabItemControl[@Name='Não há nada salvo na memória Memória']",
+                      "Children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Name": "Modo Calculadora Científica",
+          "AutomationId": "Header",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(250,246,335,273)[85x27]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/TextControl[@Name='Modo Calculadora Científica']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Módulo",
+      "AutomationId": "modButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(496,572,566,613)[70x41]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Módulo']",
+      "Children": [
+        {
+          "Name": "mod",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(517,583,546,602)[29x19]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Módulo']/TextControl[@Name='mod']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Subtração de memória",
+      "AutomationId": "MemMinus",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(422,445,493,483)[71x38]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Controles de memória']/ButtonControl[@Name='Subtração de memória']",
+      "Children": [
+        {
+          "Name": "",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(449,456,467,472)[18x16]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Controles de memória']/ButtonControl[@Name='Subtração de memória']/TextControl[@Name='']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Armazenamento de memória",
+      "AutomationId": "memButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(495,445,565,483)[70x38]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Controles de memória']/ButtonControl[@Name='Armazenamento de memória']",
+      "Children": [
+        {
+          "Name": "",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(521,456,539,472)[18x16]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Controles de memória']/ButtonControl[@Name='Armazenamento de memória']/TextControl[@Name='']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Adição de memória",
+      "AutomationId": "MemPlus",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(350,445,420,483)[70x38]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Controles de memória']/ButtonControl[@Name='Adição de memória']",
+      "Children": [
+        {
+          "Name": "",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(376,456,394,472)[18x16]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Controles de memória']/ButtonControl[@Name='Adição de memória']/TextControl[@Name='']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Rechamada de memória",
+      "AutomationId": "MemRecall",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(278,445,348,483)[70x38]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Controles de memória']/ButtonControl[@Name='Rechamada de memória']",
+      "Children": [
+        {
+          "Name": "",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(304,456,322,472)[18x16]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Controles de memória']/ButtonControl[@Name='Rechamada de memória']/TextControl[@Name='']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Limpar toda a memória",
+      "AutomationId": "ClearMemoryButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(206,445,276,483)[70x38]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Controles de memória']/ButtonControl[@Name='Limpar toda a memória']",
+      "Children": [
+        {
+          "Name": "",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(232,456,250,472)[18x16]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Controles de memória']/ButtonControl[@Name='Limpar toda a memória']/TextControl[@Name='']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Alternância de graus",
+      "AutomationId": "degButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(0,0,0,0)[0x0]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Operadores de ângulo']/ButtonControl[@Name='Alternância de graus']",
+      "Children": [
+        {
+          "Name": "DEG",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(223,415,248,433)[25x18]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Operadores de ângulo']/ButtonControl[@Name='Alternância de graus']/TextControl[@Name='DEG']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Notação científica",
+      "AutomationId": "ftoeButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "ToggleButton",
+      "BoundingRectangle": "(266,405,324,443)[58x38]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Operadores de ângulo']/ButtonControl[@Name='Notação científica']",
+      "Children": [
+        {
+          "Name": "F-E",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(286,415,305,433)[19x18]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Operadores de ângulo']/ButtonControl[@Name='Notação científica']/TextControl[@Name='F-E']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Alternância de radianos",
+      "AutomationId": "radButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(206,405,264,443)[58x38]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Operadores de ângulo']/ButtonControl[@Name='Alternância de radianos']",
+      "Children": [
+        {
+          "Name": "RAD",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(222,415,248,433)[26x18]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Operadores de ângulo']/ButtonControl[@Name='Alternância de radianos']/TextControl[@Name='RAD']",
+          "Children": []
+        }
+      ]
+    }
+  },
+  {
+    "clicked_element": {
+      "Name": "Alternância de grados",
+      "AutomationId": "gradButton",
+      "ControlType": "ButtonControl",
+      "ClassName": "Button",
+      "BoundingRectangle": "(206,405,264,443)[58x38]",
+      "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Operadores de ângulo']/ButtonControl[@Name='Alternância de grados']",
+      "Children": [
+        {
+          "Name": "GRAD",
+          "AutomationId": "",
+          "ControlType": "TextControl",
+          "ClassName": "TextBlock",
+          "BoundingRectangle": "(218,415,253,433)[35x18]",
+          "Path": "/PaneControl[@Name='Área de Trabalho 1']/WindowControl[@Name='Calculadora']/WindowControl[@Name='Calculadora']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Operadores de ângulo']/ButtonControl[@Name='Alternância de grados']/TextControl[@Name='GRAD']",
+          "Children": []
+        }
+      ]
+    }
+  }
+]

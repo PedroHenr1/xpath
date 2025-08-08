@@ -1,0 +1,5 @@
+comtypes==1.4.11
+pynput==1.8.1
+pywin32==310
+six==1.17.0
+uiautomation==2.0.28

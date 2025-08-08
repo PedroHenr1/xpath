@@ -1,0 +1,851 @@
+[
+  {
+    "Tree": {
+      "Name": "Calculator",
+      "AutomationId": "",
+      "ControlType": "WindowControl",
+      "ClassName": "ApplicationFrameWindow",
+      "BoundingRectangle": "(262,308,598,828)[336x520]",
+      "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']",
+      "Children": [
+        {
+          "Name": "Calculator",
+          "AutomationId": "TitleBar",
+          "ControlType": "WindowControl",
+          "ClassName": "ApplicationFrameTitleBarWindow",
+          "BoundingRectangle": "(402,309,590,341)[188x32]",
+          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']",
+          "Children": [
+            {
+              "Name": "System",
+              "AutomationId": "SystemMenuBar",
+              "ControlType": "MenuBarControl",
+              "ClassName": "",
+              "BoundingRectangle": "(0,0,0,0)[0x0]",
+              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/MenuBarControl[@Name='System']",
+              "Children": [
+                {
+                  "Name": "System",
+                  "AutomationId": "",
+                  "ControlType": "MenuItemControl",
+                  "ClassName": "",
+                  "BoundingRectangle": "(0,0,0,0)[0x0]",
+                  "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/MenuBarControl[@Name='System']/MenuItemControl[@Name='System']",
+                  "Children": []
+                }
+              ]
+            },
+            {
+              "Name": "Minimize Calculator",
+              "AutomationId": "Minimize",
+              "ControlType": "ButtonControl",
+              "ClassName": "",
+              "BoundingRectangle": "(452,309,498,341)[46x32]",
+              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/ButtonControl[@Name='Minimize Calculator']",
+              "Children": []
+            },
+            {
+              "Name": "Maximize Calculator",
+              "AutomationId": "Maximize",
+              "ControlType": "ButtonControl",
+              "ClassName": "",
+              "BoundingRectangle": "(498,309,544,341)[46x32]",
+              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/ButtonControl[@Name='Maximize Calculator']",
+              "Children": []
+            },
+            {
+              "Name": "Close Calculator",
+              "AutomationId": "Close",
+              "ControlType": "ButtonControl",
+              "ClassName": "",
+              "BoundingRectangle": "(544,309,590,341)[46x32]",
+              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/ButtonControl[@Name='Close Calculator']",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Name": "Calculator",
+          "AutomationId": "",
+          "ControlType": "WindowControl",
+          "ClassName": "Windows.UI.Core.CoreWindow",
+          "BoundingRectangle": "(270,309,590,820)[320x511]",
+          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']",
+          "Children": [
+            {
+              "Name": "",
+              "AutomationId": "AppIcon",
+              "ControlType": "ImageControl",
+              "ClassName": "Image",
+              "BoundingRectangle": "(286,315,306,335)[20x20]",
+              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/ImageControl[@AutomationId='AppIcon']",
+              "Children": []
+            },
+            {
+              "Name": "Calculator",
+              "AutomationId": "AppName",
+              "ControlType": "TextControl",
+              "ClassName": "TextBlock",
+              "BoundingRectangle": "(318,317,373,333)[55x16]",
+              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/TextControl[@Name='Calculator']",
+              "Children": []
+            },
+            {
+              "Name": "",
+              "AutomationId": "NavView",
+              "ControlType": "CustomControl",
+              "ClassName": "",
+              "BoundingRectangle": "(270,341,590,820)[320x479]",
+              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']",
+              "Children": [
+                {
+                  "Name": "Open Navigation",
+                  "AutomationId": "TogglePaneButton",
+                  "ControlType": "ButtonControl",
+                  "ClassName": "Button",
+                  "BoundingRectangle": "(274,347,314,383)[40x36]",
+                  "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/ButtonControl[@Name='Open Navigation']",
+                  "Children": [
+                    {
+                      "Name": "",
+                      "AutomationId": "PaneTitleTextBlock",
+                      "ControlType": "TextControl",
+                      "ClassName": "TextBlock",
+                      "BoundingRectangle": "(0,0,0,0)[0x0]",
+                      "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/ButtonControl[@Name='Open Navigation']/TextControl[@AutomationId='PaneTitleTextBlock']",
+                      "Children": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "",
+                  "AutomationId": "",
+                  "ControlType": "GroupControl",
+                  "ClassName": "LandmarkTarget",
+                  "BoundingRectangle": "(270,349,590,816)[320x467]",
+                  "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl",
+                  "Children": [
+                    {
+                      "Name": "Expression is ",
+                      "AutomationId": "CalculatorExpression",
+                      "ControlType": "TextControl",
+                      "ClassName": "",
+                      "BoundingRectangle": "(0,0,0,0)[0x0]",
+                      "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/TextControl[@Name='Expression is ']",
+                      "Children": []
+                    },
+                    {
+                      "Name": "Display is 0",
+                      "AutomationId": "CalculatorResults",
+                      "ControlType": "TextControl",
+                      "ClassName": "",
+                      "BoundingRectangle": "(270,411,590,483)[320x72]",
+                      "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/TextControl[@Name='Display is 0']",
+                      "Children": [
+                        {
+                          "Name": "0",
+                          "AutomationId": "TextContainer",
+                          "ControlType": "PaneControl",
+                          "ClassName": "ScrollViewer",
+                          "BoundingRectangle": "(282,411,578,483)[296x72]",
+                          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/TextControl[@Name='Display is 0']/PaneControl[@Name='0']",
+                          "Children": [
+                            {
+                              "Name": "0",
+                              "AutomationId": "NormalOutput",
+                              "ControlType": "TextControl",
+                              "ClassName": "TextBlock",
+                              "BoundingRectangle": "(552,411,578,473)[26x62]",
+                              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/TextControl[@Name='Display is 0']/PaneControl[@Name='0']/TextControl[@Name='0']",
+                              "Children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "Name": "Open history flyout",
+                      "AutomationId": "HistoryButton",
+                      "ControlType": "ButtonControl",
+                      "ClassName": "Button",
+                      "BoundingRectangle": "(550,349,582,381)[32x32]",
+                      "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Open history flyout']",
+                      "Children": [
+                        {
+                          "Name": "",
+                          "AutomationId": "",
+                          "ControlType": "TextControl",
+                          "ClassName": "TextBlock",
+                          "BoundingRectangle": "(558,357,574,373)[16x16]",
+                          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Open history flyout']/TextControl[@Name='']",
+                          "Children": []
+                        }
+                      ]
+                    },
+                    {
+                      "Name": "Memory controls",
+                      "AutomationId": "MemoryPanel",
+                      "ControlType": "GroupControl",
+                      "ClassName": "NamedContainerAutomationPeer",
+                      "BoundingRectangle": "(274,484,586,513)[312x29]",
+                      "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Memory controls']",
+                      "Children": [
+                        {
+                          "Name": "Clear all memory",
+                          "AutomationId": "ClearMemoryButton",
+                          "ControlType": "ButtonControl",
+                          "ClassName": "Button",
+                          "BoundingRectangle": "(274,484,324,513)[50x29]",
+                          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Memory controls']/ButtonControl[@Name='Clear all memory']",
+                          "Children": [
+                            {
+                              "Name": "",
+                              "AutomationId": "",
+                              "ControlType": "TextControl",
+                              "ClassName": "TextBlock",
+                              "BoundingRectangle": "(290,491,308,507)[18x16]",
+                              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Memory controls']/ButtonControl[@Name='Clear all memory']/TextControl[@Name='']",
+                              "Children": []
+                            }
+                          ]
+                        },
+                        {
+                          "Name": "Memory recall",
+                          "AutomationId": "MemRecall",
+                          "ControlType": "ButtonControl",
+                          "ClassName": "Button",
+                          "BoundingRectangle": "(326,484,376,513)[50x29]",
+                          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Memory controls']/ButtonControl[@Name='Memory recall']",
+                          "Children": [
+                            {
+                              "Name": "",
+                              "AutomationId": "",
+                              "ControlType": "TextControl",
+                              "ClassName": "TextBlock",
+                              "BoundingRectangle": "(342,491,360,507)[18x16]",
+                              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Memory controls']/ButtonControl[@Name='Memory recall']/TextControl[@Name='']",
+                              "Children": []
+                            }
+                          ]
+                        },
+                        {
+                          "Name": "Memory add",
+                          "AutomationId": "MemPlus",
+                          "ControlType": "ButtonControl",
+                          "ClassName": "Button",
+                          "BoundingRectangle": "(378,484,428,513)[50x29]",
+                          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Memory controls']/ButtonControl[@Name='Memory add']",
+                          "Children": [
+                            {
+                              "Name": "",
+                              "AutomationId": "",
+                              "ControlType": "TextControl",
+                              "ClassName": "TextBlock",
+                              "BoundingRectangle": "(394,491,412,507)[18x16]",
+                              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Memory controls']/ButtonControl[@Name='Memory add']/TextControl[@Name='']",
+                              "Children": []
+                            }
+                          ]
+                        },
+                        {
+                          "Name": "Memory subtract",
+                          "AutomationId": "MemMinus",
+                          "ControlType": "ButtonControl",
+                          "ClassName": "Button",
+                          "BoundingRectangle": "(430,484,480,513)[50x29]",
+                          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Memory controls']/ButtonControl[@Name='Memory subtract']",
+                          "Children": [
+                            {
+                              "Name": "",
+                              "AutomationId": "",
+                              "ControlType": "TextControl",
+                              "ClassName": "TextBlock",
+                              "BoundingRectangle": "(446,491,464,507)[18x16]",
+                              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Memory controls']/ButtonControl[@Name='Memory subtract']/TextControl[@Name='']",
+                              "Children": []
+                            }
+                          ]
+                        },
+                        {
+                          "Name": "Memory store",
+                          "AutomationId": "memButton",
+                          "ControlType": "ButtonControl",
+                          "ClassName": "Button",
+                          "BoundingRectangle": "(482,484,533,513)[51x29]",
+                          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Memory controls']/ButtonControl[@Name='Memory store']",
+                          "Children": [
+                            {
+                              "Name": "",
+                              "AutomationId": "",
+                              "ControlType": "TextControl",
+                              "ClassName": "TextBlock",
+                              "BoundingRectangle": "(499,491,517,507)[18x16]",
+                              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Memory controls']/ButtonControl[@Name='Memory store']/TextControl[@Name='']",
+                              "Children": []
+                            }
+                          ]
+                        },
+                        {
+                          "Name": "Open memory flyout",
+                          "AutomationId": "MemoryButton",
+                          "ControlType": "ButtonControl",
+                          "ClassName": "Button",
+                          "BoundingRectangle": "(536,484,586,513)[50x29]",
+                          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Memory controls']/ButtonControl[@Name='Open memory flyout']",
+                          "Children": [
+                            {
+                              "Name": "",
+                              "AutomationId": "",
+                              "ControlType": "TextControl",
+                              "ClassName": "TextBlock",
+                              "BoundingRectangle": "(552,491,570,507)[18x16]",
+                              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Memory controls']/ButtonControl[@Name='Open memory flyout']/TextControl[@Name='']",
+                              "Children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "Name": "Display controls",
+                      "AutomationId": "DisplayControls",
+                      "ControlType": "GroupControl",
+                      "ClassName": "NamedContainerAutomationPeer",
+                      "BoundingRectangle": "(274,515,586,564)[312x49]",
+                      "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Display controls']",
+                      "Children": [
+                        {
+                          "Name": "Percent",
+                          "AutomationId": "percentButton",
+                          "ControlType": "ButtonControl",
+                          "ClassName": "Button",
+                          "BoundingRectangle": "(274,515,351,564)[77x49]",
+                          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Display controls']/ButtonControl[@Name='Percent']",
+                          "Children": [
+                            {
+                              "Name": "",
+                              "AutomationId": "",
+                              "ControlType": "TextControl",
+                              "ClassName": "TextBlock",
+                              "BoundingRectangle": "(306,533,320,547)[14x14]",
+                              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Display controls']/ButtonControl[@Name='Percent']/TextControl[@Name='']",
+                              "Children": []
+                            }
+                          ]
+                        },
+                        {
+                          "Name": "Clear entry",
+                          "AutomationId": "clearEntryButton",
+                          "ControlType": "ButtonControl",
+                          "ClassName": "Button",
+                          "BoundingRectangle": "(353,515,429,564)[76x49]",
+                          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Display controls']/ButtonControl[@Name='Clear entry']",
+                          "Children": [
+                            {
+                              "Name": "CE",
+                              "AutomationId": "",
+                              "ControlType": "TextControl",
+                              "ClassName": "TextBlock",
+                              "BoundingRectangle": "(383,530,399,549)[16x19]",
+                              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Display controls']/ButtonControl[@Name='Clear entry']/TextControl[@Name='CE']",
+                              "Children": []
+                            }
+                          ]
+                        },
+                        {
+                          "Name": "Clear",
+                          "AutomationId": "clearButton",
+                          "ControlType": "ButtonControl",
+                          "ClassName": "Button",
+                          "BoundingRectangle": "(431,515,508,564)[77x49]",
+                          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Display controls']/ButtonControl[@Name='Clear']",
+                          "Children": [
+                            {
+                              "Name": "C",
+                              "AutomationId": "",
+                              "ControlType": "TextControl",
+                              "ClassName": "TextBlock",
+                              "BoundingRectangle": "(465,530,474,549)[9x19]",
+                              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Display controls']/ButtonControl[@Name='Clear']/TextControl[@Name='C']",
+                              "Children": []
+                            }
+                          ]
+                        },
+                        {
+                          "Name": "Backspace",
+                          "AutomationId": "backSpaceButton",
+                          "ControlType": "ButtonControl",
+                          "ClassName": "Button",
+                          "BoundingRectangle": "(510,515,586,564)[76x49]",
+                          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Display controls']/ButtonControl[@Name='Backspace']",
+                          "Children": [
+                            {
+                              "Name": "",
+                              "AutomationId": "",
+                              "ControlType": "TextControl",
+                              "ClassName": "TextBlock",
+                              "BoundingRectangle": "(541,533,555,547)[14x14]",
+                              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Display controls']/ButtonControl[@Name='Backspace']/TextControl[@Name='']",
+                              "Children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "Name": "Standard functions",
+                      "AutomationId": "StandardFunctions",
+                      "ControlType": "GroupControl",
+                      "ClassName": "NamedContainerAutomationPeer",
+                      "BoundingRectangle": "(274,566,508,614)[234x48]",
+                      "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Standard functions']",
+                      "Children": [
+                        {
+                          "Name": "Reciprocal",
+                          "AutomationId": "invertButton",
+                          "ControlType": "ButtonControl",
+                          "ClassName": "Button",
+                          "BoundingRectangle": "(274,566,351,614)[77x48]",
+                          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Standard functions']/ButtonControl[@Name='Reciprocal']",
+                          "Children": [
+                            {
+                              "Name": "",
+                              "AutomationId": "",
+                              "ControlType": "TextControl",
+                              "ClassName": "TextBlock",
+                              "BoundingRectangle": "(306,583,320,597)[14x14]",
+                              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Standard functions']/ButtonControl[@Name='Reciprocal']/TextControl[@Name='']",
+                              "Children": []
+                            }
+                          ]
+                        },
+                        {
+                          "Name": "Square",
+                          "AutomationId": "xpower2Button",
+                          "ControlType": "ButtonControl",
+                          "ClassName": "Button",
+                          "BoundingRectangle": "(353,566,429,614)[76x48]",
+                          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Standard functions']/ButtonControl[@Name='Square']",
+                          "Children": [
+                            {
+                              "Name": "",
+                              "AutomationId": "",
+                              "ControlType": "TextControl",
+                              "ClassName": "TextBlock",
+                              "BoundingRectangle": "(384,583,398,597)[14x14]",
+                              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Standard functions']/ButtonControl[@Name='Square']/TextControl[@Name='']",
+                              "Children": []
+                            }
+                          ]
+                        },
+                        {
+                          "Name": "Square root",
+                          "AutomationId": "squareRootButton",
+                          "ControlType": "ButtonControl",
+                          "ClassName": "Button",
+                          "BoundingRectangle": "(431,566,508,614)[77x48]",
+                          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Standard functions']/ButtonControl[@Name='Square root']",
+                          "Children": [
+                            {
+                              "Name": "",
+                              "AutomationId": "",
+                              "ControlType": "TextControl",
+                              "ClassName": "TextBlock",
+                              "BoundingRectangle": "(462,583,478,597)[16x14]",
+                              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Standard functions']/ButtonControl[@Name='Square root']/TextControl[@Name='']",
+                              "Children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "Name": "Standard operators",
+                      "AutomationId": "StandardOperators",
+                      "ControlType": "GroupControl",
+                      "ClassName": "NamedContainerAutomationPeer",
+                      "BoundingRectangle": "(510,566,586,816)[76x250]",
+                      "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Standard operators']",
+                      "Children": [
+                        {
+                          "Name": "Divide by",
+                          "AutomationId": "divideButton",
+                          "ControlType": "ButtonControl",
+                          "ClassName": "Button",
+                          "BoundingRectangle": "(510,566,586,614)[76x48]",
+                          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Standard operators']/ButtonControl[@Name='Divide by']",
+                          "Children": [
+                            {
+                              "Name": "",
+                              "AutomationId": "",
+                              "ControlType": "TextControl",
+                              "ClassName": "TextBlock",
+                              "BoundingRectangle": "(541,583,555,597)[14x14]",
+                              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Standard operators']/ButtonControl[@Name='Divide by']/TextControl[@Name='']",
+                              "Children": []
+                            }
+                          ]
+                        },
+                        {
+                          "Name": "Multiply by",
+                          "AutomationId": "multiplyButton",
+                          "ControlType": "ButtonControl",
+                          "ClassName": "Button",
+                          "BoundingRectangle": "(510,616,586,665)[76x49]",
+                          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Standard operators']/ButtonControl[@Name='Multiply by']",
+                          "Children": [
+                            {
+                              "Name": "",
+                              "AutomationId": "",
+                              "ControlType": "TextControl",
+                              "ClassName": "TextBlock",
+                              "BoundingRectangle": "(541,634,555,648)[14x14]",
+                              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Standard operators']/ButtonControl[@Name='Multiply by']/TextControl[@Name='']",
+                              "Children": []
+                            }
+                          ]
+                        },
+                        {
+                          "Name": "Minus",
+                          "AutomationId": "minusButton",
+                          "ControlType": "ButtonControl",
+                          "ClassName": "Button",
+                          "BoundingRectangle": "(510,667,586,715)[76x48]",
+                          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Standard operators']/ButtonControl[@Name='Minus']",
+                          "Children": [
+                            {
+                              "Name": "",
+                              "AutomationId": "",
+                              "ControlType": "TextControl",
+                              "ClassName": "TextBlock",
+                              "BoundingRectangle": "(541,684,555,698)[14x14]",
+                              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Standard operators']/ButtonControl[@Name='Minus']/TextControl[@Name='']",
+                              "Children": []
+                            }
+                          ]
+                        },
+                        {
+                          "Name": "Plus",
+                          "AutomationId": "plusButton",
+                          "ControlType": "ButtonControl",
+                          "ClassName": "Button",
+                          "BoundingRectangle": "(510,717,586,766)[76x49]",
+                          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Standard operators']/ButtonControl[@Name='Plus']",
+                          "Children": [
+                            {
+                              "Name": "",
+                              "AutomationId": "",
+                              "ControlType": "TextControl",
+                              "ClassName": "TextBlock",
+                              "BoundingRectangle": "(541,735,555,749)[14x14]",
+                              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Standard operators']/ButtonControl[@Name='Plus']/TextControl[@Name='']",
+                              "Children": []
+                            }
+                          ]
+                        },
+                        {
+                          "Name": "Equals",
+                          "AutomationId": "equalButton",
+                          "ControlType": "ButtonControl",
+                          "ClassName": "Button",
+                          "BoundingRectangle": "(510,768,586,816)[76x48]",
+                          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Standard operators']/ButtonControl[@Name='Equals']",
+                          "Children": [
+                            {
+                              "Name": "",
+                              "AutomationId": "",
+                              "ControlType": "TextControl",
+                              "ClassName": "TextBlock",
+                              "BoundingRectangle": "(541,785,555,799)[14x14]",
+                              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Standard operators']/ButtonControl[@Name='Equals']/TextControl[@Name='']",
+                              "Children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "Name": "Number pad",
+                      "AutomationId": "NumberPad",
+                      "ControlType": "GroupControl",
+                      "ClassName": "NamedContainerAutomationPeer",
+                      "BoundingRectangle": "(274,616,508,816)[234x200]",
+                      "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Number pad']",
+                      "Children": [
+                        {
+                          "Name": "Zero",
+                          "AutomationId": "num0Button",
+                          "ControlType": "ButtonControl",
+                          "ClassName": "Button",
+                          "BoundingRectangle": "(353,768,430,816)[77x48]",
+                          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Number pad']/ButtonControl[@Name='Zero']",
+                          "Children": [
+                            {
+                              "Name": "0",
+                              "AutomationId": "",
+                              "ControlType": "TextControl",
+                              "ClassName": "TextBlock",
+                              "BoundingRectangle": "(387,780,397,804)[10x24]",
+                              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Number pad']/ButtonControl[@Name='Zero']/TextControl[@Name='0']",
+                              "Children": []
+                            }
+                          ]
+                        },
+                        {
+                          "Name": "One",
+                          "AutomationId": "num1Button",
+                          "ControlType": "ButtonControl",
+                          "ClassName": "Button",
+                          "BoundingRectangle": "(274,717,351,766)[77x49]",
+                          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Number pad']/ButtonControl[@Name='One']",
+                          "Children": [
+                            {
+                              "Name": "1",
+                              "AutomationId": "",
+                              "ControlType": "TextControl",
+                              "ClassName": "TextBlock",
+                              "BoundingRectangle": "(309,730,316,754)[7x24]",
+                              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Number pad']/ButtonControl[@Name='One']/TextControl[@Name='1']",
+                              "Children": []
+                            }
+                          ]
+                        },
+                        {
+                          "Name": "Two",
+                          "AutomationId": "num2Button",
+                          "ControlType": "ButtonControl",
+                          "ClassName": "Button",
+                          "BoundingRectangle": "(353,717,430,766)[77x49]",
+                          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Number pad']/ButtonControl[@Name='Two']",
+                          "Children": [
+                            {
+                              "Name": "2",
+                              "AutomationId": "",
+                              "ControlType": "TextControl",
+                              "ClassName": "TextBlock",
+                              "BoundingRectangle": "(387,730,397,754)[10x24]",
+                              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Number pad']/ButtonControl[@Name='Two']/TextControl[@Name='2']",
+                              "Children": []
+                            }
+                          ]
+                        },
+                        {
+                          "Name": "Three",
+                          "AutomationId": "num3Button",
+                          "ControlType": "ButtonControl",
+                          "ClassName": "Button",
+                          "BoundingRectangle": "(432,717,508,766)[76x49]",
+                          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Number pad']/ButtonControl[@Name='Three']",
+                          "Children": [
+                            {
+                              "Name": "3",
+                              "AutomationId": "",
+                              "ControlType": "TextControl",
+                              "ClassName": "TextBlock",
+                              "BoundingRectangle": "(465,730,475,754)[10x24]",
+                              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Number pad']/ButtonControl[@Name='Three']/TextControl[@Name='3']",
+                              "Children": []
+                            }
+                          ]
+                        },
+                        {
+                          "Name": "Four",
+                          "AutomationId": "num4Button",
+                          "ControlType": "ButtonControl",
+                          "ClassName": "Button",
+                          "BoundingRectangle": "(274,667,351,715)[77x48]",
+                          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Number pad']/ButtonControl[@Name='Four']",
+                          "Children": [
+                            {
+                              "Name": "4",
+                              "AutomationId": "",
+                              "ControlType": "TextControl",
+                              "ClassName": "TextBlock",
+                              "BoundingRectangle": "(308,679,318,703)[10x24]",
+                              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Number pad']/ButtonControl[@Name='Four']/TextControl[@Name='4']",
+                              "Children": []
+                            }
+                          ]
+                        },
+                        {
+                          "Name": "Five",
+                          "AutomationId": "num5Button",
+                          "ControlType": "ButtonControl",
+                          "ClassName": "Button",
+                          "BoundingRectangle": "(353,667,430,715)[77x48]",
+                          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Number pad']/ButtonControl[@Name='Five']",
+                          "Children": [
+                            {
+                              "Name": "5",
+                              "AutomationId": "",
+                              "ControlType": "TextControl",
+                              "ClassName": "TextBlock",
+                              "BoundingRectangle": "(387,679,397,703)[10x24]",
+                              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Number pad']/ButtonControl[@Name='Five']/TextControl[@Name='5']",
+                              "Children": []
+                            }
+                          ]
+                        },
+                        {
+                          "Name": "Six",
+                          "AutomationId": "num6Button",
+                          "ControlType": "ButtonControl",
+                          "ClassName": "Button",
+                          "BoundingRectangle": "(432,667,508,715)[76x48]",
+                          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Number pad']/ButtonControl[@Name='Six']",
+                          "Children": [
+                            {
+                              "Name": "6",
+                              "AutomationId": "",
+                              "ControlType": "TextControl",
+                              "ClassName": "TextBlock",
+                              "BoundingRectangle": "(465,679,475,703)[10x24]",
+                              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Number pad']/ButtonControl[@Name='Six']/TextControl[@Name='6']",
+                              "Children": []
+                            }
+                          ]
+                        },
+                        {
+                          "Name": "Seven",
+                          "AutomationId": "num7Button",
+                          "ControlType": "ButtonControl",
+                          "ClassName": "Button",
+                          "BoundingRectangle": "(274,616,351,665)[77x49]",
+                          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Number pad']/ButtonControl[@Name='Seven']",
+                          "Children": [
+                            {
+                              "Name": "7",
+                              "AutomationId": "",
+                              "ControlType": "TextControl",
+                              "ClassName": "TextBlock",
+                              "BoundingRectangle": "(308,629,318,653)[10x24]",
+                              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Number pad']/ButtonControl[@Name='Seven']/TextControl[@Name='7']",
+                              "Children": []
+                            }
+                          ]
+                        },
+                        {
+                          "Name": "Eight",
+                          "AutomationId": "num8Button",
+                          "ControlType": "ButtonControl",
+                          "ClassName": "Button",
+                          "BoundingRectangle": "(353,616,430,665)[77x49]",
+                          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Number pad']/ButtonControl[@Name='Eight']",
+                          "Children": [
+                            {
+                              "Name": "8",
+                              "AutomationId": "",
+                              "ControlType": "TextControl",
+                              "ClassName": "TextBlock",
+                              "BoundingRectangle": "(387,629,397,653)[10x24]",
+                              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Number pad']/ButtonControl[@Name='Eight']/TextControl[@Name='8']",
+                              "Children": []
+                            }
+                          ]
+                        },
+                        {
+                          "Name": "Nine",
+                          "AutomationId": "num9Button",
+                          "ControlType": "ButtonControl",
+                          "ClassName": "Button",
+                          "BoundingRectangle": "(432,616,508,665)[76x49]",
+                          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Number pad']/ButtonControl[@Name='Nine']",
+                          "Children": [
+                            {
+                              "Name": "9",
+                              "AutomationId": "",
+                              "ControlType": "TextControl",
+                              "ClassName": "TextBlock",
+                              "BoundingRectangle": "(465,629,475,653)[10x24]",
+                              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Number pad']/ButtonControl[@Name='Nine']/TextControl[@Name='9']",
+                              "Children": []
+                            }
+                          ]
+                        },
+                        {
+                          "Name": "Decimal separator",
+                          "AutomationId": "decimalSeparatorButton",
+                          "ControlType": "ButtonControl",
+                          "ClassName": "Button",
+                          "BoundingRectangle": "(432,768,508,816)[76x48]",
+                          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Number pad']/ButtonControl[@Name='Decimal separator']",
+                          "Children": [
+                            {
+                              "Name": ".",
+                              "AutomationId": "",
+                              "ControlType": "TextControl",
+                              "ClassName": "TextBlock",
+                              "BoundingRectangle": "(468,780,472,804)[4x24]",
+                              "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/GroupControl[@Name='Number pad']/ButtonControl[@Name='Decimal separator']/TextControl[@Name='.']",
+                              "Children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "Name": "Positive negative",
+                      "AutomationId": "negateButton",
+                      "ControlType": "ButtonControl",
+                      "ClassName": "Button",
+                      "BoundingRectangle": "(274,768,351,816)[77x48]",
+                      "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Positive negative']",
+                      "Children": [
+                        {
+                          "Name": "",
+                          "AutomationId": "",
+                          "ControlType": "TextControl",
+                          "ClassName": "TextBlock",
+                          "BoundingRectangle": "(305,785,321,799)[16x14]",
+                          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/GroupControl/ButtonControl[@Name='Positive negative']/TextControl[@Name='']",
+                          "Children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "Name": "Standard Calculator mode",
+                  "AutomationId": "Header",
+                  "ControlType": "TextControl",
+                  "ClassName": "TextBlock",
+                  "BoundingRectangle": "(318,350,400,377)[82x27]",
+                  "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/TextControl[@Name='Standard Calculator mode']",
+                  "Children": []
+                },
+                {
+                  "Name": "Keep on top",
+                  "AutomationId": "NormalAlwaysOnTopButton",
+                  "ControlType": "ButtonControl",
+                  "ClassName": "Button",
+                  "BoundingRectangle": "(410,349,442,381)[32x32]",
+                  "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/ButtonControl[@Name='Keep on top']",
+                  "Children": [
+                    {
+                      "Name": "",
+                      "AutomationId": "",
+                      "ControlType": "TextControl",
+                      "ClassName": "TextBlock",
+                      "BoundingRectangle": "(418,357,434,373)[16x16]",
+                      "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/WindowControl[@Name='Calculator']/CustomControl[@AutomationId='NavView']/ButtonControl[@Name='Keep on top']/TextControl[@Name='']",
+                      "Children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Name": "",
+          "AutomationId": "",
+          "ControlType": "PaneControl",
+          "ClassName": "ApplicationFrameInputSinkWindow",
+          "BoundingRectangle": "(270,341,590,820)[320x479]",
+          "Path": "/PaneControl[@Name='Desktop 1']/WindowControl[@Name='Calculator']/PaneControl",
+          "Children": []
+        }
+      ]
+    }
+  }
+]

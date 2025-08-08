@@ -1,0 +1,1 @@
+2025-07-01 12:55:50.384 xpath-extractor.py[89] <module> -> Find Control Timeout(10s): {Name: 'Calculadora', ControlType: WindowControl}
